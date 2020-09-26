@@ -4,7 +4,7 @@
 AUTHOR = 'James Dey'
 SITENAME = 'Climate Solutions'
 SITESUBTITLE='Articles'
-SITEURL = ''
+SITEURL = 'https://deytalytics.github.io/climatesolutions'
 
 PATH = 'content'
 
