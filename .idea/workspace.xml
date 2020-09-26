@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/output/author/climate-solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/climate-solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/climate-solutions-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/climate-solutions-overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/dev_projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/dev_projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/climate.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/climate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
-    </list>
+    <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

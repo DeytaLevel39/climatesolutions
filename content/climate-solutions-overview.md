@@ -74,7 +74,11 @@ Potential solutions for buildings are a combination of:-
 
 ## Transport
 
-Transport is an area that is showing promise as electric vehicles aim to displace petrol & diesel cars.
+Transport is an area that is showing promise as electric vehicles aim to displace petrol & diesel cars. 
+The most expensive item in an EV is the battery and battery prices are coming down year on year. It's expected that in 2022, EVs will be an equivalent price to petrol/diesel vehicles. At that point, sales should go from less than 1% of total global car sales up to 35% by 2040. 
+The UK is currently planning to ban petrol/diesel cars by 2035 and may bring this forward, dependent on whether progress is made as expected.
+
+![The Rise of Electric Cars](https://www.bloomberg.com/features/2016-ev-oil-crisis/img/ev-sales.jpg)
 
 Challenges around electric vehicles include:-
 
