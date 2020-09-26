@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/output/alexa-skills-video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/archives.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/author/deytalytics-ltd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/author/james-dey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/authors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/blog/authors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/business-glossary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/authors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/blogposts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/cloud-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/data-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/enterprise-architecture-data-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/enterprise-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/misc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/social-media.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/solution-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/cloud-choices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data-modelling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data-visualisation-examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/dev_projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/digital-marketing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/digital-platforms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/enterprise-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/finance-data-standards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/google9f910418c09ff454.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/alexa-skills-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/atm-locator-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/bankaccounts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/business-glossary.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/cloud-choices" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/cloud-choices-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/companies-house-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/data-modelling-notation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/data-modelling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/deytalytics-header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/deytalytics-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/deytalyticslogobig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/ea-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/ea-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/ea-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/ea-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/ea-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/edi-reqs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/edi-solns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/info-hairball-sales-example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/info-hairball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/iso20022-data-dict.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/iso20022-erwin-cdm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/iso20022-pig.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/iso20022-uml.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/iso20022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/linkedn-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/money-pit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/pelican.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/rest-api.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/rubiks-cube-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/rubiks-cube-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/rubiks-cube-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/images/semantic-web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/info-hairball.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/info-strategy-dev.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/iso20022.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/my-super-title.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/alexa-skills-video.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/business-glossary.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/cloud-choices.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/data-modelling.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/deytalytics-ltd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/digital-marketing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/digital-platforms.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/enterprise-architecture.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/finance-data-standards.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/info-hairball.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/info-strategy-dev.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/iso20022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/james-dey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/pelican-website-info.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/rest-api.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/semantic-web.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/sharepoint-overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pelican-website-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/rest-api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/semantic-web.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sharepoint-overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/alexa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/aws.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/azure.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/blogs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/business-benefits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/business-glossary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/cloud.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/cms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/data-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/data-integration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/data-modelling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/data-standards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/data-vault.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/data-visualisation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/digital-marketing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/digital-transformation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/e-r.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/enterprise-architecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/erwin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/financial-services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/fintech.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/gcp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/github-pages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/iso20022.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/openbanking.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/owl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/powerdesigner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/python.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/rdf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/relational.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/rest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/semantic-web.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/sharepoint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/strategy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/tips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/uml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/web-30.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/website.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/testing-sharing-of-content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/pygment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/pygments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/typogrify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/css/wide.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/font/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/font/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/font/fontawesome-webfont.svgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/font/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/font/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/fonts/font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/alexa-skills-demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/bird_32_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/bird_32_gray_fail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/code_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/deytalyticslogobig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/dotted-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/aboutme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/bitbucket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/delicious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/gitorious.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/gittip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/google-groups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/google-plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/hackernews.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/lastfm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/reddit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/slideshare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/speakerdeck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/stackoverflow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/vimeo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/icons/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/line-tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/noise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/images/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/autosidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/ender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/github.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/jXHR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/jquery-1.7.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/modernizr-2.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/octopress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/qr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/theme/js/twitter.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/output" />
+  </component>
+  <component name="ProjectId" id="1i2qJXPDGw5YEes6GnKsoEPP4Gc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/output/theme/css" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JamesDey\PycharmProjects\climatesolutions\output\theme\css" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\climatesolutions\content" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\climatesolutions\content\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="" />
+      <created>1601115962320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601115962320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1601123994754">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1601123994754" />
+  </component>
+</project>
