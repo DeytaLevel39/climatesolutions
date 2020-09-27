@@ -30,6 +30,6 @@ Challenges around electric cars include:-
 Electric Vehicles work well for cars, vans and buses and potentially heavy goods vehicles (due to them having long wheelbases that could support battery storage).
 
 ## Ships, Aeroplanes & Trains
-They're not such a great option for ships (which require more power) or for aeroplanes (which would not be able to carry passengers and heavy batteries)
+Batteries are not really a viable option for ships (which require more power) or for aeroplanes (which would not be able to carry passengers and heavy batteries)
 In both cases, Hydrogen is currently looking like the best power option.
 
