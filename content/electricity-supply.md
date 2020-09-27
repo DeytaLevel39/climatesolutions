@@ -6,7 +6,7 @@ Authors: Climate Solutions
 Cover: https://deytalytics.github.io/climate-solutions/images/carbon-capture.jpeg
 Summary: Covers challenges & solutions dealing with electricity supply's move away from fossil fuels
 
-![Renewable electricity generation](https://deytalytics.github.io/deyblog/images/carbon-capture.jpeg)
+![Renewable electricity generation](https://deytalytics.github.io/climatesolutions/images/carbon-capture.jpeg)
 
 This has probably been the biggest success story so far in terms of CO2 emission reductions.
 The reduction in use of fossil fuels in this area has primarily been achieved by investing in:-
