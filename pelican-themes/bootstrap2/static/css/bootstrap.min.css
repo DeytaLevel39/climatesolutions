@@ -542,7 +542,7 @@
     .navbar-fixed-top .navbar-inner,.navbar-fixed-bottom .navbar-inner{padding-left:0;padding-right:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
     .navbar-fixed-top .container,.navbar-fixed-bottom .container{width:940px;}
     .navbar-fixed-top{top:0;}
-    .navbar-fixed-bottom{bottom:0; margin-bottom: 30px; margin-left: 10px;}
+    .navbar-fixed-bottom{bottom:0; margin-bottom: 30px; margin-left: 10px; overflow: hidden;}
     .navbar .nav{position:relative;left:0;display:block;float:left;margin:0 10px 0 0}
     .navbar .nav.pull-right{float:right; padding: 5px 0;}
     .navbar .nav>li{display:block;float:left;}
