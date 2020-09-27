@@ -27,5 +27,5 @@ In Iceland, Geothermal supplies most of their energy.
 
 The use of renewables for electrical supply continues to increase as a percentage, but the pie is getting bigger. We need renewables to start to encroach on fossil fuel energy demand, and not just prevent further increase as is the current situation.
 
-![Historical & projected electrical supply by source](https://deytalytics.github.io/climatesolutions/images/world-net-electricity-generation.svg)
+![Historical & projected electrical supply by source](https://deytalytics.github.io/climatesolutions/images/world-net-electricity-generation.png)
 
