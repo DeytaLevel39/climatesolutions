@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="" />
+    <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/climate-solutions-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/climate-solutions-overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/author/climate-solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/climate-solutions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/category/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/climate-solutions-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/climate-solutions-overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/dev_projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/dev_projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/climate.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/climate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tag/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solutions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf-gh.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf-gh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf-localhost.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf-localhost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/output" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i2qJXPDGw5YEes6GnKsoEPP4Gc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,13 +37,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/output/theme/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JamesDey\PycharmProjects\climatesolutions\output\theme\css" />
       <recent name="C:\Users\JamesDey\PycharmProjects\climatesolutions\content" />
+      <recent name="C:\Users\JamesDey\PycharmProjects\climatesolutions\output\theme\css" />
       <recent name="C:\Users\JamesDey\PycharmProjects\climatesolutions\content\images" />
     </key>
   </component>
@@ -43,6 +61,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1601195120661">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1601195120661" />
     <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1601123994754">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

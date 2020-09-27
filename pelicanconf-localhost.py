@@ -22,10 +22,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Deytalytics.com','http://www.deytalytics.com'),)
+LINKS = (('UK Committee for Climate Change','https://www.theccc.org.uk/'),('UK Climate Assembly','https://www.climateassembly.uk/'),('UK Department of Energy & Climate Change','https://www.gov.uk/government/organisations/department-of-energy-climate-change'))
 
 # Social widget
-SOCIAL = (('Twitter', 'https://www.twitter.com/climatesolutions'),)
+SOCIAL = (('Linkedin', 'https://twitter.com/ClimateSoluti10'),)
 
 DEFAULT_PAGINATION = False
 
@@ -40,7 +40,7 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'search','blog','dev_project
 
 DISQUS_SITENAME="climatesolutions"
 
-MAINMENUITEMS=(('Articles','blog.html'),('Development Projects','dev_projects.html'))
+MAINMENUITEMS=(('Articles','blog.html'),('','index.html'))
 
 PDF_PROCESSOR=True
 
