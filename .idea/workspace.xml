@@ -25,7 +25,7 @@
       <change beforePath="$PROJECT_DIR$/output/dev_projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/dev_projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/electricity.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/government-initiatives.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/government-initiatives.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/agriculture.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/agriculture.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" afterDir="false" />
@@ -58,7 +58,6 @@
       <change beforePath="$PROJECT_DIR$/output/tag/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solutions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tag/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/transport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/theme/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/output/theme/css/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/transport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
     </list>
@@ -75,7 +74,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/output" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i2qJXPDGw5YEes6GnKsoEPP4Gc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
