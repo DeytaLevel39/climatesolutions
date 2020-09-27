@@ -1,7 +1,7 @@
 Title: Removing CO2 from the atmosphere
 Category: Carbon Cleaning
-Tags: climate, solutions, carbon cleaning, CO2, emission reduction
-Slug: climate-cleaning
+Tags: climate, solutions, carbon cleaning, carbon capture, co2, emission reduction
+Slug: carbon-cleaning
 Authors: Climate Solutions
 Cover: https://deytalytics.github.io/climatesolutions/images/carbon-capture.jpg
 Summary: Covers technology to remove CO2 from the atmosphere
