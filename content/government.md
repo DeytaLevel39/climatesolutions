@@ -6,7 +6,7 @@ Authors: Climate Solutions
 Cover: https://deytalytics.github.io/images/uk-parliament.jpg
 Summary: Covers what the UK parliament & associated bodies have done and are doing to combat climate change
 
-![Climate Solutions cover image](https://deytalytics.github.io/images/uk-parliament.jpg)
+![UK parliament cover image](images/uk-parliament.jpg)
 
 All of the major parties in the UK, have been supportive of measures to combat climate change.
 
