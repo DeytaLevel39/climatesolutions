@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title> Welcome to Climate Solutions</title>
-    <meta name="tags" content=" climate, solutions" />
-    <meta name="slug" content="climate-solutions-overview" />
-        <meta name="category" content="Overview" />
-        <meta name="authors" content="James Dey" />
-        <meta name="summary" content="Covers the areas where climate solutions are required and explains some of the current challenges that will need to be addressed" />
-</head>
-<body>
+Title:  Welcome to Climate Solutions
+Category: Overview
+Tags: climate, solutions
+Slug: climate-solutions-overview
+Authors: Climate Solutions
+Cover: https://deytalytics.github.io/climatesolutions/images/climate-solutions-banner.png
+Summary: Covers the areas where climate solutions are required and explains some of the current challenges that will need to be addressed
 
 <img src="https://deytalytics.github.io/climatesolutions/images/climate-solutions-banner.png"/>
 
@@ -31,14 +27,10 @@ Rather than focusing on negative stories, this website intends to highlight solu
 
 In order to achieve zero carbon emissions, the following areas will need to be addressed
 
-<li>
 <li><a href="electricity.html">Electrical Power Supply</a></li>
 <li><a href="building-energy-usage.html">Heating and cooling of buildings</a></li>
-    <li><a href="transport.html">Transport</a></li>
+<li><a href="transport.html">Transport</a></li>
 <li><a href="agriculture.html">Agriculture</a></li>
 <li><a href="carbon-cleaning.html">Carbon Cleaning</a></li>
 <li><a href="carbon-credits.html">Carbon Credits</a></li>
 <li><a href="battery-storage.html">Battery Storage</a></li>
-<ul>
-</body>
-</html>
