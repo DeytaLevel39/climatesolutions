@@ -45,7 +45,7 @@ MAINMENUITEMS=(('Articles','climate-solutions-overview.html'),('','index.html'))
 PDF_PROCESSOR=True
 
 PLUGIN_PATHS=['pelican-plugins',]
-PLUGINS=['pdf',]
+PLUGINS=['pdf','sitemap']
 
 AUTHORS_URL = 'blog/authors.html'
 AUTHORS_SAVE_AS = 'blog/authors.html'
