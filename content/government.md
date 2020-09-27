@@ -1,5 +1,5 @@
 Title: UK Parliament Initiatives
-Category: Agriculture
+Category: Parliament
 Tags: climate, solutions, government
 Slug: government-initiatives
 Authors: Climate Solutions
