@@ -25,35 +25,63 @@ s4IA0!"_al8O`[\!<<*#!!*'"s4[O,!!ri7'+tom',(uo()7W%(E+))'c7i0(DRc(()e#,(_mr+*[i-J
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.7118d070d0239c97517f8e36d1d98981 4 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.instituteforgovernment.org.uk/sites/default/files/climate_change_act.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 140.7209 560.5611 187.4039 568.4361 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/PageLabels 10 0 R /PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://www.carbonbrief.org/in-depth-qa-the-uk-becomes-first-major-economy-to-set-net-zero-climate-goal)
+>> /Border [ 0 0 0 ] /Rect [ 119.4217 542.8111 279.3209 550.6861 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20200927210850+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200927210850+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (UK Parliament Initiatives) /Trapped /False
+/A <<
+/S /URI /Type /Action /URI (https://www.bbc.co.uk/news/uk-politics-48126677)
+>> /Border [ 0 0 0 ] /Rect [ 122.3407 532.9361 166.3934 540.8111 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/A <<
+/S /URI /Type /Action /URI (https://www.climateassembly.uk/)
+>> /Border [ 0 0 0 ] /Rect [ 124.9709 523.0611 166.9762 530.9361 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Length 2542
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/FormXob.ac4ee83133d2fd9417cef256d263cb99 4 0 R
+>>
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/PageLabels 14 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog
+>>
+endobj
+11 0 obj
+<<
+/Author () /CreationDate (D:20200927211625+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200927211625+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (UK Parliament Initiatives) /Trapped /False
+>>
+endobj
+12 0 obj
+<<
+/Count 1 /Kids [ 9 0 R ] /Type /Pages
+>>
+endobj
+13 0 obj
+<<
+/Length 2838
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -70,7 +98,7 @@ q
 q
 q
 222.75 0 0 127.5 0 2.03675 cm
-/FormXob.7118d070d0239c97517f8e36d1d98981 Do
+/FormXob.ac4ee83133d2fd9417cef256d263cb99 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 127.7625 TL 222.75 0 Td /F1 5.25 Tf 6.3 TL  T* -222.75 0 Td ET
@@ -110,8 +138,10 @@ q
 q
 BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
+0 0 1 RG
+n 77.028 12.99612 m 123.711 12.99612 l S
 .492188 w
-BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2008 - UK Parliament agrees Climate Change Act, committing the UK to reduce CO2 emissions by 80% compared to 1990 levels. Additionally creates the Committee of Climate Change who are) Tj T* (tasked with determining 5 year climate reduction budgets and holding the UK to account) Tj T* ET
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2008 - UK Parliament agrees ) Tj 0 0 1 rg (Climate Change Act) Tj 0 0 0 rg (, committing the UK to reduce CO2 emissions by 80% compared to 1990 levels. Additionally creates the Committee of Climate Change who are) Tj T* (tasked with determining 5 year climate reduction budgets and holding the UK to account) Tj T* ET
 Q
 Q
 q
@@ -124,7 +154,9 @@ q
 q
 BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2019 - UK becomes first country in the world to legally commit to net zero carbon by 2050) Tj T* ET
+0 0 1 RG
+n 55.72875 5.121125 m 215.628 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2019 - UK becomes ) Tj 0 0 1 rg (first country in the world to legally commit to net zero carbon by 2050) Tj T* ET
 Q
 Q
 q
@@ -137,7 +169,9 @@ q
 q
 BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2019 - UK declares a climate emergency) Tj T* ET
+0 0 1 RG
+n 58.64775 5.121125 m 102.7005 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2019 - UK declares a ) Tj 0 0 1 rg (climate emergency) Tj T* ET
 Q
 Q
 q
@@ -150,8 +184,10 @@ q
 q
 BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
+0 0 1 RG
+n 61.278 12.99612 m 103.2833 12.99612 l S
 .492188 w
-BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2020 - UK convenes a Climate Assembly, with members picked at random from a population set determined on a spread of known political, racial, gender etc. demographics to be broadly) Tj T* (representative of the UK population. It's report came out in September 2020 highlighting areas where climate solutions could be developed by 2050.) Tj T* ET
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2020 - UK convenes a ) Tj 0 0 1 rg (Climate Assembly) Tj 0 0 0 rg (, with members picked at random from a population set determined on a spread of known political, racial, gender etc. demographics to be broadly) Tj T* (representative of the UK population. It's report came out in September 2020 highlighting areas where climate solutions could be developed by 2050.) Tj T* ET
 Q
 Q
 q
@@ -163,40 +199,44 @@ Q
  
 endstream
 endobj
-10 0 obj
+14 0 obj
 <<
-/Nums [ 0 11 0 R ]
+/Nums [ 0 15 0 R ]
 >>
 endobj
-11 0 obj
+15 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 12
+0 16
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
 0000016573 00000 n 
-0000016839 00000 n 
-0000016926 00000 n 
-0000017208 00000 n 
-0000017267 00000 n 
-0000019860 00000 n 
-0000019901 00000 n 
+0000016809 00000 n 
+0000017064 00000 n 
+0000017263 00000 n 
+0000017446 00000 n 
+0000017750 00000 n 
+0000017839 00000 n 
+0000018122 00000 n 
+0000018182 00000 n 
+0000021072 00000 n 
+0000021113 00000 n 
 trailer
 <<
 /ID 
-[<ec143582e3843763286e975029f385fd><ec143582e3843763286e975029f385fd>]
+[<b42978e5e675e334005fd38cddf3f8dc><b42978e5e675e334005fd38cddf3f8dc>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 7 0 R
-/Root 6 0 R
-/Size 12
+/Info 11 0 R
+/Root 10 0 R
+/Size 16
 >>
 startxref
-19935
+21147
 %%EOF
