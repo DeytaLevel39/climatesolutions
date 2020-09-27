@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/climate-solutions-overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/climate-solutions-overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/images/energy-intensity-of-economies_v3_850x600.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/images/global-primary-energy_v13_850x600.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/images/world-net-electricity-generation.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/agriculture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/author/climate-solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/climate-solutions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/battery-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/battery-storage.html" afterDir="false" />
