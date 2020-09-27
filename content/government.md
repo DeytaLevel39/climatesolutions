@@ -3,10 +3,10 @@ Category: Agriculture
 Tags: climate, solutions, government
 Slug: government-initiatives
 Authors: Climate Solutions
-Cover: https://deytalytics.github.io/images/uk-parliament.jpg
+Cover: https://deytalytics.github.io/climatesolutions/images/uk-parliament.jpg
 Summary: Covers what the UK parliament & associated bodies have done and are doing to combat climate change
 
-![UK parliament cover image](images/uk-parliament.jpg)
+![UK parliament cover image](https://deytalytics.github.io/climatesolutions/images/uk-parliament.jpg)
 
 All of the major parties in the UK, have been supportive of measures to combat climate change.
 
