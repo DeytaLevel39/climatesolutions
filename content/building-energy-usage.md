@@ -27,12 +27,31 @@ In the UK, our challenges are:-
 
 Potential solutions for buildings are a combination of:-
 
-1. Solar Panels  
-2. Battery Storage
-3. Heat Pumps
-4. Hydrogen 
-5. External Wall insulation
-6. District Heating Schemes e.g. burning municipal waste and using the heat to keep a district of a town warm.
+### Solar Panels 
+
+This will be sufficient to generate electricity during the day from about March through to October
+In the UK, these are most suitable in Southern England. If you are out during the day, the spare capacity can be fed back in to the national grid 
+offsetting the costs of using electricity during nighttime hours.
+
+### Battery Storage 
+This can provide a few hours in the evening of electricity from what was generated during the day
+
+### Heat Pumps
+Heat pumps come in 3 different flavours:-
+* Air Source - most suitable for city dwellings if district heating is not an option. Challenges at the moment are that they do not provide as much heat as a gas boiler so your house needs to be fully insulated and radiators swapped for larger ones. 
+* Ground Source - requires digging up your garden but makes sense for detached houses in the countryside which currently are reliant on oil for their heating
+* Water Source - suitable for buildings near lakes or other bodies of water
+
+Heat pumps are 3 times as efficient as gas boilers. They do require electricity to power them but this could be supplied from solar panels/battery storage during the day
+Challenges at the moment are that heat pumps do not provide as much heat as a gas boiler so your house needs to be fully insulated and radiators swapped for larger ones.
+  
+### Hydrogen 
+* A trial has already successfully taken place at [Keele University which replaced 15% of natural gas with hydrogen](https://www.theguardian.com/environment/2020/jan/24/hydrogen-uk-gas-grid-keele-university)
+* A further trial is due to take place in the Northern England in a small area to test the use of Hydrogen in real world conditions
+
+### External Wall insulation
+
+### District Heating Schemes e.g. burning municipal waste and using the heat to keep a district of a town warm.
 
 
 

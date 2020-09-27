@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/electricity-supply.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/electricity-supply.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/author/climate-solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/climate-solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/batteries.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/batteries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/buildings.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/buildings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/carbon-credits.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/carbon-credits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/parliament.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/parliament.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/transport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/agriculture.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/agriculture.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/carbon-cleaning.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/carbon-cleaning.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/carbon-credits.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/carbon-credits.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/electricity.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/electricity.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/government-initiatives.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/government-initiatives.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/transport.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/transport.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/air-conditioning.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/air-conditioning.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/batteries.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/batteries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/battery.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/battery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/buildings.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/buildings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/carbon-cleaning.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/carbon-cleaning.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/climate.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/climate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/co2.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/co2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/cooling.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/cooling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/energy-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/energy-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/government.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/government.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/heat-pumps.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/heat-pumps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/heating.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/heating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/insulating.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/insulating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/power.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/power.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/renewable-energy.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/renewable-energy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/solar.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/transport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/building-energy-usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/building-energy-usage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
