@@ -25,50 +25,87 @@ s4IA0!"_al8O`[\!<E1.!+5d,s4[N@!!30%!W`<'!WiE)!WiE*"Tni/!s8`1"9Sf4"pYA<"pYA=#n%%F
 endobj
 5 0 obj
 <<
-/Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.eddcf0f61b3b5d9c54286cf7f80d563b 4 0 R
->>
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/environment/2020/jan/24/hydrogen-uk-gas-grid-keele-university)
+>> /Border [ 0 0 0 ] /Rect [ 178.9462 236.5615 332.7187 244.4365 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Outlines 8 0 R /PageLabels 13 0 R /PageMode /UseNone /Pages 11 0 R /Type /Catalog
+/Annots [ 5 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/FormXob.2e0f9253dbdb4e7e1de93714ae08c312 4 0 R
+>>
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20200927173709+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200927173709+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Building Energy Usage) /Trapped /False
+/Outlines 9 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/Count 2 /First 9 0 R /Last 9 0 R /Type /Outlines
+/Author () /CreationDate (D:20200927175453+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200927175453+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Building Energy Usage) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/Count -1 /Dest [ 5 0 R /Fit ] /First 10 0 R /Last 10 0 R /Parent 8 0 R /Title (Heating and cooling of buildings)
+/Count 3 /First 10 0 R /Last 10 0 R /Type /Outlines
 >>
 endobj
 10 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Parent 9 0 R /Title (Heating and cooling of buildings)
+/Count -1 /Dest [ 6 0 R /Fit ] /First 11 0 R /Last 11 0 R /Parent 9 0 R /Title (Heating and cooling of buildings)
 >>
 endobj
 11 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/Count -6 /Dest [ 6 0 R /Fit ] /First 12 0 R /Last 17 0 R /Parent 10 0 R /Title (Heating and cooling of buildings)
 >>
 endobj
 12 0 obj
 <<
-/Length 5845
+/Dest [ 6 0 R /Fit ] /Next 13 0 R /Parent 11 0 R /Title (Solar Panels)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Battery Storage)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Heat Pumps)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Hydrogen)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (External Wall insulation)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 6 0 R /Fit ] /Parent 11 0 R /Prev 16 0 R /Title (District Heating Schemes e.g. burning municipal waste and using the heat to keep a district of a town warm.)
+>>
+endobj
+18 0 obj
+<<
+/Count 1 /Kids [ 6 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Length 7950
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -85,7 +122,7 @@ q
 q
 q
 225.75 0 0 161.25 0 2.03675 cm
-/FormXob.eddcf0f61b3b5d9c54286cf7f80d563b Do
+/FormXob.2e0f9253dbdb4e7e1de93714ae08c312 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 161.5125 TL 225.75 0 Td /F1 5.25 Tf 6.3 TL  T* -225.75 0 Td ET
@@ -254,126 +291,207 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 390.4922 cm
+1 0 0 1 62.69291 389.4422 cm
 q
 1 0 0 1 1 -1 cm
 q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
-.492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Solar Panels) Tj T* ET
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Solar Panels) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 380.6172 cm
-q
-1 0 0 1 1 -1 cm
-q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
-.492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Battery Storage) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 370.7422 cm
+1 0 0 1 62.69291 366.0222 cm
 q
 1 0 0 1 1 -1 cm
 q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (3.) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Heat Pumps) Tj T* ET
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (This will be sufficient to generate electricity during the day from about March through to October In the UK, these are most suitable in Southern England. If you are out during the day, the spare capacity) Tj T* (can be fed back in to the national grid offsetting the costs of using electricity during nighttime hours.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 360.8672 cm
+1 0 0 1 62.69291 349.8472 cm
 q
 1 0 0 1 1 -1 cm
 q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (4.) Tj ET
-.492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hydrogen) Tj T* ET
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Battery Storage) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 350.9922 cm
-q
-1 0 0 1 1 -1 cm
-q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (5.) Tj ET
-.492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (External Wall insulation) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 341.1172 cm
+1 0 0 1 62.69291 334.3022 cm
 q
 1 0 0 1 1 -1 cm
 q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (6.) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (District Heating Schemes e.g. burning municipal waste and using the heat to keep a district of a town warm.) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (This can provide a few hours in the evening of electricity from what was generated during the day) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 341.1172 cm
+1 0 0 1 62.69291 318.1272 cm
+q
+1 0 0 1 1 -1 cm
+q
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Heat Pumps) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 286.8322 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+.492188 w
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Heat pumps come in 3 different flavours:- * Air Source - most suitable for city dwellings if district heating is not an option. Challenges at the moment are that they do not provide as much heat as a gas) Tj T* (boiler so your house needs to be fully insulated and radiators swapped for larger ones. * Ground Source - requires digging up your garden but makes sense for detached houses in the countryside which) Tj T* (currently are reliant on oil for their heating * Water Source - suitable for buildings near lakes or other bodies of water) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 263.8322 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Heat pumps are 3 times as efficient as gas boilers. They do require electricity to power them but this could be supplied from solar panels/battery storage during the day Challenges at the moment are) Tj T* (that heat pumps do not provide as much heat as a gas boiler so your house needs to be fully insulated and radiators swapped for larger ones.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 247.6572 cm
+q
+1 0 0 1 1 -1 cm
+q
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Hydrogen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 232.1122 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 115.2532 5.121125 m 269.0258 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A trial has already successfully taken place at ) Tj 0 0 1 rg (Keele University which replaced 15% of natural gas with hydrogen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 222.2372 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A further trial is due to take place in the Northern England in a small area to test the use of Hydrogen in real world conditions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 222.2372 cm
+Q
+q
+1 0 0 1 62.69291 206.0622 cm
+q
+1 0 0 1 1 -1 cm
+q
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (External Wall insulation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 189.8872 cm
+q
+1 0 0 1 1 -1 cm
+q
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (District Heating Schemes e.g. burning municipal waste and using the heat to keep a district of a town warm.) Tj T* ET
+Q
+Q
+q
+Q
 Q
  
 endstream
 endobj
-13 0 obj
+20 0 obj
 <<
-/Nums [ 0 14 0 R ]
+/Nums [ 0 21 0 R ]
 >>
 endobj
-14 0 obj
+21 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 15
+0 22
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
 0000051039 00000 n 
-0000051307 00000 n 
-0000051411 00000 n 
-0000051689 00000 n 
-0000051760 00000 n 
-0000051895 00000 n 
-0000051994 00000 n 
-0000052054 00000 n 
-0000057951 00000 n 
-0000057992 00000 n 
+0000051280 00000 n 
+0000051566 00000 n 
+0000051670 00000 n 
+0000051948 00000 n 
+0000052021 00000 n 
+0000052157 00000 n 
+0000052294 00000 n 
+0000052387 00000 n 
+0000052496 00000 n 
+0000052600 00000 n 
+0000052702 00000 n 
+0000052820 00000 n 
+0000053008 00000 n 
+0000053068 00000 n 
+0000061070 00000 n 
+0000061111 00000 n 
 trailer
 <<
 /ID 
-[<0573d262e208ee22e9e41e3ceb67cfcb><0573d262e208ee22e9e41e3ceb67cfcb>]
+[<289f2de625e49ece0f13a0dfc4569bb1><289f2de625e49ece0f13a0dfc4569bb1>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 7 0 R
-/Root 6 0 R
-/Size 15
+/Info 8 0 R
+/Root 7 0 R
+/Size 22
 >>
 startxref
-58026
+61145
 %%EOF
