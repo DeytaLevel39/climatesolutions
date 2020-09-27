@@ -3,8 +3,10 @@ Category: Electricity
 Tags: climate, solutions, electricity, power
 Slug: electricity
 Authors: Climate Solutions
-Cover: https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbillroberson%2Ffiles%2F2019%2F03%2FScreen-Shot-2019-03-30-at-4.25.31-PM-1200x813.jpg
+Cover: https://deytalytics.github.io/climate-solutions/images/carbon-capture.jpeg
 Summary: Covers challenges & solutions dealing with electricity supply's move away from fossil fuels
+
+![Renewable electricity generation](https://deytalytics.github.io/deyblog/images/carbon-capture.jpeg)
 
 This has probably been the biggest success story so far in terms of CO2 emission reductions.
 The reduction in use of fossil fuels in this area has primarily been achieved by investing in:-

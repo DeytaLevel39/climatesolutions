@@ -3,10 +3,10 @@ Category: Buildings
 Tags: climate, solutions, buildings, heating, air-conditioning, cooling, insulating, heat pumps, solar, battery
 Slug: building-energy-usage
 Authors: Climate Solutions
-Cover: https://chinadialogueocean.net/wp-content/uploads/2019/09/Ocean-climate-solutions-and-their-potential-annual-greenhouse-gas-reductions-in-2050-1440x872.png
+Cover: https://deytalytics.github.io/climate-solutions/images/building-heat-loss.jpg
 Summary: Covers challenges & solutions in keeping buildings at a comfortable temperature
 
-![Climate Solutions cover image](https://chinadialogueocean.net/wp-content/uploads/2019/09/Ocean-climate-solutions-and-their-potential-annual-greenhouse-gas-reductions-in-2050-1440x872.png)
+![Climate Solutions cover image](images/building-heat-loss.jpg)
 
 ## Heating and cooling of buildings
 
