@@ -35,7 +35,7 @@ endobj
 <<
 /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.890f900e852fe5bb2041a73261102f9a 4 0 R
+/FormXob.2541c4ea019f7ca910d17b635a18e081 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -79,7 +79,7 @@ endobj
 <<
 /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6ead28b7f5dd3346ee44ee93e9c5b2d2 7 0 R /FormXob.85f5dfc5e5057790500d9fd4e1acbb68 9 0 R
+/FormXob.a98981432a4a6e3e6f729de8b8b61024 7 0 R /FormXob.c28274da283cfc6f3d4f889c08433143 9 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -104,7 +104,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20200927211821+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200927211821+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20200928200240+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200928200240+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Welcome to Climate Solutions) /Trapped /False
 >>
 endobj
@@ -130,7 +130,7 @@ endobj
 endobj
 19 0 obj
 <<
-/Length 1355
+/Length 1628
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -141,13 +141,25 @@ BT 1 0 0 1 0 4 Tm 91.58488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Welcome to Climate Sol
 Q
 Q
 q
-1 0 0 1 62.69291 445.0209 cm
+1 0 0 1 62.69291 721.1486 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Summary: Covers the areas where climate solutions are required and explains some of the current challenges that will need to be addressed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.8959 cm
 q
 1 0 0 1 1 -1 cm
 q
 q
 467.8898 0 0 283.966 0 2.03675 cm
-/FormXob.890f900e852fe5bb2041a73261102f9a Do
+/FormXob.2541c4ea019f7ca910d17b635a18e081 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 284.2285 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -157,7 +169,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 426.864 cm
+1 0 0 1 62.69291 411.739 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -169,7 +181,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 410.5263 cm
+1 0 0 1 62.69291 395.4013 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -181,7 +193,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 395.4013 cm
+1 0 0 1 62.69291 380.2763 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -193,7 +205,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 380.2763 cm
+1 0 0 1 62.69291 365.1513 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -220,7 +232,7 @@ q
 q
 q
 467.8898 0 0 330.2751 0 2.03675 cm
-/FormXob.6ead28b7f5dd3346ee44ee93e9c5b2d2 Do
+/FormXob.a98981432a4a6e3e6f729de8b8b61024 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 330.5376 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -248,7 +260,7 @@ q
 q
 q
 467.8898 0 0 330.2751 0 2.03675 cm
-/FormXob.85f5dfc5e5057790500d9fd4e1acbb68 Do
+/FormXob.c28274da283cfc6f3d4f889c08433143 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 330.5376 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -452,16 +464,16 @@ xref
 0001749993 00000 n 
 0001750071 00000 n 
 0001750145 00000 n 
-0001751552 00000 n 
-0001752373 00000 n 
-0001755442 00000 n 
-0001755501 00000 n 
-0001755535 00000 n 
-0001755569 00000 n 
+0001751825 00000 n 
+0001752646 00000 n 
+0001755715 00000 n 
+0001755774 00000 n 
+0001755808 00000 n 
+0001755842 00000 n 
 trailer
 <<
 /ID 
-[<37d592b328020fbb98cfe475238e1d69><37d592b328020fbb98cfe475238e1d69>]
+[<315fe6d5fa3e3dbd08771690288fb9eb><315fe6d5fa3e3dbd08771690288fb9eb>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 14 0 R
@@ -469,5 +481,5 @@ trailer
 /Size 26
 >>
 startxref
-1755603
+1755876
 %%EOF
