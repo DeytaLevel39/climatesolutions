@@ -3,7 +3,8 @@ Category: Overview
 Tags: climate, solutions
 Slug: climate-solutions-overview
 Authors: Climate Solutions
-Cover: https://deytalytics.github.io/climatesolutions/images/climate-solutions-banner.png
+Cover: https://chinadialogueocean.net/wp-content/uploads/2019/09/Ocean-climate-solutions-and-their-potential-annual-greenhouse-gas-reductions-in-2050-1440x872.png
+
 Summary: Covers the areas where climate solutions are required and explains some of the current challenges that will need to be addressed
 
 <img src="https://deytalytics.github.io/climatesolutions/images/climate-solutions-banner.png"/>
