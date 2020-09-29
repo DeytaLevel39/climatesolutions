@@ -4,13 +4,13 @@
 AUTHOR = 'James Dey'
 SITENAME = 'Climate Solutions'
 SITESUBTITLE='Articles'
-SITEURL = 'https://www.climatesolutions.org.uk/'
+SITEURL = 'https://www.climatesolutions.org.uk'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en'
 
 DEFAULT_DATE = 'fs'
 

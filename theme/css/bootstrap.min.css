@@ -15,6 +15,13 @@
     input[type="search"]{-webkit-appearance:textfield;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}
     input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none;}
     textarea{overflow:auto;vertical-align:top;}
+<<<<<<< HEAD
+=======
+    .responsive {
+  max-width: 50vh;
+  height: auto;
+}
+>>>>>>> c6c165f8d4de1eb3f08164c46a198cacb4036a79
     .clearfix{*zoom:1;}.clearfix:before,.clearfix:after{display:table;content:"";}
     .clearfix:after{clear:both;}
     .hide-text{overflow:hidden;text-indent:100%;white-space:nowrap;}
@@ -85,6 +92,10 @@
     ul,ol{padding:0;margin:0 0 9px 25px;}
     ul ul,ul ol,ol ol,ol ul{margin-bottom:0;}
     ul{list-style:disc;}
+<<<<<<< HEAD
+=======
+    ul li { padding: 5px 0px; }
+>>>>>>> c6c165f8d4de1eb3f08164c46a198cacb4036a79
     ol{list-style:decimal;}
     li{line-height:18px;}
     ul.unstyled,ol.unstyled{margin-left:0;list-style:none;}
@@ -520,7 +531,11 @@
     .btn-navbar .icon-bar+.icon-bar{margin-top:3px;}
     .nav-collapse.collapse{height:auto;}
     .navbar{color:#999999;}.navbar .brand:hover{text-decoration:none;}
+<<<<<<< HEAD
     .navbar .brand{float:left;display:block;padding:8px 20px 12px;margin-left:-20px;font-size:20px;font-weight:200;line-height:1;color:#ffffff}
+=======
+    .navbar .brand{float:left;display:block;padding:14px 20px 12px;margin-left:-20px;font-size:20px;font-weight:200;line-height:1;color:#ffffff}
+>>>>>>> c6c165f8d4de1eb3f08164c46a198cacb4036a79
     .navbar .navbar-text{margin-bottom:0;line-height:40px;}
     .navbar .btn,.navbar .btn-group{margin-top:5px;}
     .navbar .btn-group .btn{margin-top:0;}
@@ -537,7 +552,11 @@
     .navbar-fixed-top .navbar-inner,.navbar-fixed-bottom .navbar-inner{padding-left:0;padding-right:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
     .navbar-fixed-top .container,.navbar-fixed-bottom .container{width:940px;}
     .navbar-fixed-top{top:0;}
+<<<<<<< HEAD
     .navbar-fixed-bottom{bottom:0;}
+=======
+    .navbar-fixed-bottom{bottom:0; margin-bottom: 30px; margin-left: 10px; overflow: hidden;}
+>>>>>>> c6c165f8d4de1eb3f08164c46a198cacb4036a79
     .navbar .nav{position:relative;left:0;display:block;float:left;margin:0 10px 0 0}
     .navbar .nav.pull-right{float:right; padding: 5px 0;}
     .navbar .nav>li{display:block;float:left;}
