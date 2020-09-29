@@ -4,294 +4,294 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/</loc>
-<lastmod>2020-09-28T20:02:34-00:00</lastmod>
+<loc>https://www.climatesolutions.org.uk/</loc>
+<lastmod>2020-09-29T16:47:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/carbon-credits.html</loc>
+<loc>https://www.climatesolutions.org.uk/carbon-credits.html</loc>
 <lastmod>2020-09-28T20:02:01+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/climate-solutions-overview.html</loc>
+<loc>https://www.climatesolutions.org.uk/climate-solutions-overview.html</loc>
 <lastmod>2020-09-28T20:02:01+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/government-initiatives.html</loc>
+<loc>https://www.climatesolutions.org.uk/government-initiatives.html</loc>
 <lastmod>2020-09-27T21:15:28+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/transport.html</loc>
+<loc>https://www.climatesolutions.org.uk/transport.html</loc>
 <lastmod>2020-09-27T21:07:51+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/building-energy-usage.html</loc>
+<loc>https://www.climatesolutions.org.uk/building-energy-usage.html</loc>
 <lastmod>2020-09-27T21:07:04+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/electricity.html</loc>
+<loc>https://www.climatesolutions.org.uk/electricity.html</loc>
 <lastmod>2020-09-27T17:34:17+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/agriculture.html</loc>
+<loc>https://www.climatesolutions.org.uk/agriculture.html</loc>
 <lastmod>2020-09-27T13:56:44+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/carbon-cleaning.html</loc>
+<loc>https://www.climatesolutions.org.uk/carbon-cleaning.html</loc>
 <lastmod>2020-09-27T11:12:25+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/battery-storage.html</loc>
+<loc>https://www.climatesolutions.org.uk/battery-storage.html</loc>
 <lastmod>2020-09-27T10:47:30+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/agriculture.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/agriculture.html</loc>
 <lastmod>2020-09-27T13:56:44-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/batteries.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/batteries.html</loc>
 <lastmod>2020-09-27T10:47:30-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/buildings.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/buildings.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/carbon-cleaning.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/carbon-cleaning.html</loc>
 <lastmod>2020-09-27T11:12:25-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/carbon-credits.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/carbon-credits.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/electricity.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/electricity.html</loc>
 <lastmod>2020-09-27T17:34:17-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/overview.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/overview.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/parliament.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/parliament.html</loc>
 <lastmod>2020-09-27T21:15:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/category/transport.html</loc>
+<loc>https://www.climatesolutions.org.uk/category/transport.html</loc>
 <lastmod>2020-09-27T21:07:51-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/climate.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/climate.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/solutions.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/solutions.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/carbon-cleaning.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/carbon-cleaning.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/co2.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/co2.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/emission-reduction.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/emission-reduction.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/government.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/government.html</loc>
 <lastmod>2020-09-27T21:15:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/transport.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/transport.html</loc>
 <lastmod>2020-09-27T21:07:51-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/buildings.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/buildings.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/heating.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/heating.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/air-conditioning.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/air-conditioning.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/cooling.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/cooling.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/insulating.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/insulating.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/heat-pumps.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/heat-pumps.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/solar.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/solar.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/battery.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/battery.html</loc>
 <lastmod>2020-09-27T21:07:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/electricity.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/electricity.html</loc>
 <lastmod>2020-09-27T17:34:17-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/power.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/power.html</loc>
 <lastmod>2020-09-27T17:34:17-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/agriculture.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/agriculture.html</loc>
 <lastmod>2020-09-27T13:56:44-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/carbon-capture.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/carbon-capture.html</loc>
 <lastmod>2020-09-27T11:12:25-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/renewable-energy.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/renewable-energy.html</loc>
 <lastmod>2020-09-27T10:47:30-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/batteries.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/batteries.html</loc>
 <lastmod>2020-09-27T10:47:30-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/tag/energy-storage.html</loc>
+<loc>https://www.climatesolutions.org.uk/tag/energy-storage.html</loc>
 <lastmod>2020-09-27T10:47:30-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://deytalytics.github.io/climatesolutions/author/climate-solutions.html</loc>
+<loc>https://www.climatesolutions.org.uk/author/climate-solutions.html</loc>
 <lastmod>2020-09-28T20:02:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
