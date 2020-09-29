@@ -40,7 +40,7 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'search','blog','dev_project
 
 DISQUS_SITENAME="climatesolutions"
 
-MAINMENUITEMS=(('Articles','http://127.0.0.1:8000/climate-solutions-overview.html'),('','index.html'))
+MAINMENUITEMS=(('Articles','climate-solutions-overview.html'),('','index.html'))
 
 PDF_PROCESSOR=True
 

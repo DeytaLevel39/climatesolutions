@@ -1,5 +1,5 @@
 Title: Storing Renewable energy in batteries
-Category: Batteries
+Category: Energy storage
 Tags: climate, solutions, renewable energy, batteries, energy storage
 Slug: battery-storage
 Authors: Climate Solutions
