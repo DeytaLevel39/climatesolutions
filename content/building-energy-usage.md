@@ -3,10 +3,10 @@ Category: Buildings
 Tags: climate, solutions, buildings, heating, air-conditioning, cooling, insulating, heat pumps, solar, battery
 Slug: building-energy-usage
 Authors: Climate Solutions
-Cover: https://deytalytics.github.io/climate-solutions/images/building-heat-loss.jpg
+Cover: https://climatesolutions.org.uk/images/building-heat-loss.jpg
 Summary: Covers challenges & solutions in keeping buildings at a comfortable temperature
 
-![Climate Solutions cover image](https://deytalytics.github.io/climatesolutions/images/building-heat-loss.jpg)
+![Climate Solutions cover image](https://climatesolutions.org.uk/images/building-heat-loss.jpg)
 
 ## Heating and cooling of buildings
 
