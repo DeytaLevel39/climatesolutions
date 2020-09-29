@@ -5,8 +5,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/</loc>
-<lastmod>2020-09-29T19:23:19-00:00</lastmod>
+<lastmod>2020-09-29T19:27:20-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/climate-solutions-overview.html</loc>
+<lastmod>2020-09-29T19:27:13+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -41,13 +48,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.climatesolutions.org.uk/transport.html</loc>
 <lastmod>2020-09-29T17:38:44+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.climatesolutions.org.uk/climate-solutions-overview.html</loc>
-<lastmod>2020-09-28T20:02:01+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/category/overview.html</loc>
-<lastmod>2020-09-28T20:02:01-00:01</lastmod>
+<lastmod>2020-09-29T19:27:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,14 +110,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/climate.html</loc>
-<lastmod>2020-09-29T19:05:44-00:01</lastmod>
+<lastmod>2020-09-29T19:27:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/solutions.html</loc>
-<lastmod>2020-09-29T19:05:44-00:01</lastmod>
+<lastmod>2020-09-29T19:27:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -236,7 +236,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/author/climate-solutions.html</loc>
-<lastmod>2020-09-29T19:05:44-00:01</lastmod>
+<lastmod>2020-09-29T19:27:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
