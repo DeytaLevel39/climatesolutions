@@ -3,11 +3,11 @@ Category: Overview
 Tags: climate, solutions
 Slug: climate-solutions-overview
 Authors: Climate Solutions
-Cover: https://chinadialogueocean.net/wp-content/uploads/2019/09/Ocean-climate-solutions-and-their-potential-annual-greenhouse-gas-reductions-in-2050-1440x872.png
+Cover: https://climatesolutions.org.uk/images/climate-solutions-banner.png
 
 Summary: Covers the areas where climate solutions are required and explains some of the current challenges that will need to be addressed
 
-<img src="https://deytalytics.github.io/climatesolutions/images/climate-solutions-banner.png"/>
+<img src="https://climatesolutions.org.uk/images/climate-solutions-banner.png"/>
 
 <h2>Background</h2>
 The impact of the burning of fossil fuels is very well known by now, and the EU, the UK & China have committed to taking steps to reduce their CO2 emissions to net zero by 2050/60.
@@ -16,11 +16,11 @@ In order to meet those goals, new technical solutions will be required.
 
 Surprisingly, the world's use of fossil fuels really took off fairly recently - after the Second World War:-
 
-<img src="https://deytalytics.github.io/climatesolutions/images/global-primary-energy_v13_850x600.png" alt="Global primary energy consumption since the start of the industrial revolution">
+<img src="https://climatesolutions.org.uk/images/global-primary-energy_v13_850x600.png" alt="Global primary energy consumption since the start of the industrial revolution">
 
 The good news is that the whole world has become much more energy efficient in last 25 to 30 years:-
 
-<img alt="Energy intensity of economies" src="https://deytalytics.github.io/climatesolutions/images/energy-intensity-of-economies_v3_850x600.png">
+<img alt="Energy intensity of economies" src="https://climatesolutions.org.uk/images/energy-intensity-of-economies_v3_850x600.png">
 
 The question is how can more be achieved, what's available now and what will be available in the future and by when.
 
