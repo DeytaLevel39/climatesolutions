@@ -33,7 +33,7 @@ The UK is currently planning to ban petrol/diesel cars by 2035 and may bring thi
 Electric Vehicles work well for cars, vans and buses and potentially heavy goods vehicles (due to them having long wheelbases that could support battery storage).
 
 ### Industry solutions
-1. Focus on replacing Cobalt as a stablising agent within the batteries. [Tesla is leading the way on this]()https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/)
+1. Focus on replacing Cobalt as a stablising agent within the batteries. [Tesla is leading the way on this](https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/)
 2. Work with other automakers on standardising chargers
 3. Continue to drive down battery costs and improve times required between recharging
 4. Train mechanics to be able to service EVs
