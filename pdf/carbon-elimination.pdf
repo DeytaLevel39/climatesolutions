@@ -35,7 +35,7 @@ endobj
 <<
 /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.be1f868a196128d8843dcb4ad3647a46 4 0 R /FormXob.c3318ff80df28f7d34bf940cbd97a8bc 5 0 R
+/FormXob.5c1f068334c11a03de17f60923c214ec 5 0 R /FormXob.5e50b88a017b1827c162ad63a3dc4e5f 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -69,7 +69,7 @@ endobj
 <<
 /Annots [ 7 0 R 8 0 R ] /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.dc26bebe98badd5af819218179fd853f 9 0 R
+/FormXob.57d324d98412ee27cb52db841d61c7c1 9 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -89,7 +89,7 @@ endobj
 <<
 /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.60c6cbab92bf772117aa32c8a9fcbcf4 11 0 R
+/FormXob.ad41d8fc7a87ee1d2c267b7851ad7f99 11 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -104,7 +104,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20201001135121+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001135121+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201001135151+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001135151+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Can Fossil Fuels really disappear?) /Trapped /False
 >>
 endobj
@@ -175,7 +175,7 @@ q
 .492188 w
 q
 465 0 0 309.75 0 4.793 cm
-/FormXob.be1f868a196128d8843dcb4ad3647a46 Do
+/FormXob.5e50b88a017b1827c162ad63a3dc4e5f Do
 Q
 .492188 w
 BT 1 0 0 1 0 315.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (When climate change is promoted in the UK, most people think of:-) Tj T* 310.0125 TL 1 0 0 1 0 5.843 Tm 465 0 Td  T* -465 0 Td ET
@@ -203,7 +203,7 @@ q
 q
 q
 467.8898 0 0 263.188 0 2.03675 cm
-/FormXob.c3318ff80df28f7d34bf940cbd97a8bc Do
+/FormXob.5c1f068334c11a03de17f60923c214ec Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 263.4505 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -310,7 +310,7 @@ q
 .492188 w
 q
 467.8898 0 0 440.036 0 4.793 cm
-/FormXob.dc26bebe98badd5af819218179fd853f Do
+/FormXob.57d324d98412ee27cb52db841d61c7c1 Do
 Q
 .492188 w
 BT 1 0 0 1 0 446.1415 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The energy ratio \(consumption divided by GDP\) has fallen to less than 50% of 1990 levels. The ratio of carbon has fallen by 2/3. This has been achieved whilst still growing our economy) Tj T* 440.2985 TL 1 0 0 1 0 5.843 Tm 467.8898 0 Td  T* -467.8898 0 Td ET
@@ -360,7 +360,7 @@ q
 q
 q
 412.5 0 0 270 14.29575 2.03675 cm
-/FormXob.60c6cbab92bf772117aa32c8a9fcbcf4 Do
+/FormXob.ad41d8fc7a87ee1d2c267b7851ad7f99 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 270.2625 TL /F1 5.25 Tf 0 0 0 rg (years ) Tj 426.7957 0 Td  T* -426.7957 0 Td ET
@@ -426,7 +426,7 @@ xref
 trailer
 <<
 /ID 
-[<500272afcb40f97ec6e3567c3d75527f><500272afcb40f97ec6e3567c3d75527f>]
+[<d29fddcbeb219a845edbac782c436196><d29fddcbeb219a845edbac782c436196>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 14 0 R
