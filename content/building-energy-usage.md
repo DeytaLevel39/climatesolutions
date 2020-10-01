@@ -67,7 +67,7 @@ Considerations of external wall insulation include:-
 ### District Heating Schemes 
 
 District heating systems refers to a local council (or private company) generating heat centrally to power a local district of a town or city.
-Examples where this currently operates include Copenhagen, Denmark where burning of municipal waste is used to keep most of the city warm.
+Examples where this currently operates include [Copenhagen, Denmark](https://www.c40.org/case_studies/98-of-copenhagen-city-heating-supplied-by-waste-heat#:~:text=The%20Copenhagen%20district%20heating%20system%20is%20a%20heating%20supply%20system,reduces%20CO2%20emissions%20and%20pollutants.) where burning of municipal waste is used to keep most of the city warm.
 Clearly, some degree of pollution capture would be necessary to make this option environmentally acceptable, but waste incinerators are 
 already fairly common within city boundaries in the UK.
 
