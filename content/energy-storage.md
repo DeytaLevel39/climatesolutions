@@ -14,6 +14,6 @@ Energy storage covers 3 main areas:-
 * [Green Hydrogen production](green-hydrogen.html)
 * [Hydroelectricity](hydroelectricity.html)
 * [Hot water storage](hot-water-storage.html)
-* [Heating storage](heating-storage.md)
+* [Heating storage](heating-storage.html)
 
 
