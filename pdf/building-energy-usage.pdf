@@ -17,92 +17,78 @@ endobj
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/environment/2020/jan/24/hydrogen-uk-gas-grid-keele-university)
->> /Border [ 0 0 0 ] /Rect [ 178.9462 391.186 332.7187 399.061 ] /Subtype /Link /Type /Annot
+/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.nationalgrid.com/5-aug-2020-national-grid-launch-ps10m-trial-project-test-if-hydrogen-can-heat-homes-and-industry)
->> /Border [ 0 0 0 ] /Rect [ 76.52916 381.311 196.4602 389.186 ] /Subtype /Link /Type /Annot
+/Outlines 7 0 R /PageLabels 18 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R 5 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Author () /CreationDate (D:20201001105313+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001105313+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Building Energy Usage) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/Outlines 9 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
+/Count 3 /First 8 0 R /Last 8 0 R /Type /Outlines
 >>
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20201001101807+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001101807+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Building Energy Usage) /Trapped /False
+/Count -1 /Dest [ 4 0 R /Fit ] /First 9 0 R /Last 9 0 R /Parent 7 0 R /Title (Heating and cooling of buildings)
 >>
 endobj
 9 0 obj
 <<
-/Count 3 /First 10 0 R /Last 10 0 R /Type /Outlines
+/Count -6 /Dest [ 4 0 R /Fit ] /First 10 0 R /Last 15 0 R /Parent 8 0 R /Title (Heating and cooling of buildings)
 >>
 endobj
 10 0 obj
 <<
-/Count -1 /Dest [ 6 0 R /Fit ] /First 11 0 R /Last 11 0 R /Parent 9 0 R /Title (Heating and cooling of buildings)
+/Dest [ 4 0 R /Fit ] /Next 11 0 R /Parent 9 0 R /Title (Solar Panels)
 >>
 endobj
 11 0 obj
 <<
-/Count -6 /Dest [ 6 0 R /Fit ] /First 12 0 R /Last 17 0 R /Parent 10 0 R /Title (Heating and cooling of buildings)
+/Dest [ 4 0 R /Fit ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Battery Storage)
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Next 13 0 R /Parent 11 0 R /Title (Solar Panels)
+/Dest [ 4 0 R /Fit ] /Next 13 0 R /Parent 9 0 R /Prev 11 0 R /Title (Heat Pumps)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Battery Storage)
+/Dest [ 4 0 R /Fit ] /Next 14 0 R /Parent 9 0 R /Prev 12 0 R /Title (Green Hydrogen)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Heat Pumps)
+/Dest [ 4 0 R /Fit ] /Next 15 0 R /Parent 9 0 R /Prev 13 0 R /Title (External Wall insulation)
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Hydrogen)
+/Dest [ 4 0 R /Fit ] /Parent 9 0 R /Prev 14 0 R /Title (District Heating Schemes)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (External Wall insulation)
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Parent 11 0 R /Prev 16 0 R /Title (District Heating Schemes)
->>
-endobj
-18 0 obj
-<<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
->>
-endobj
-19 0 obj
-<<
-/Length 12546
+/Length 10889
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -309,19 +295,24 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 504.0517 cm
+1 0 0 1 62.69291 496.1767 cm
 q
 1 0 0 1 1 -1 cm
 q
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (This can provide a few hours in the evening of electricity from what was generated during the day) Tj T* ET
+0 0 1 RG
+n 451.6995 12.99612 m 467.1608 12.99612 l S
+.492188 w
+0 0 1 RG
+n 0 5.121125 m 77.3325 5.121125 l S
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (This can currently provide a few hours in the evening of electricity from what was generated during the day, but improvements in battery storage due to a need for that in electric vehicles \(EV\) are ) Tj 0 0 1 rg (driving) Tj T* (down the costs of battery storage) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 487.8767 cm
+1 0 0 1 62.69291 480.0017 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -333,7 +324,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 456.5817 cm
+1 0 0 1 62.69291 448.7067 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -347,7 +338,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 433.5817 cm
+1 0 0 1 62.69291 425.7067 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -360,95 +351,35 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 417.4067 cm
+1 0 0 1 62.69291 409.5317 cm
 q
 1 0 0 1 1 -1 cm
 q
 .531562 w
-BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Hydrogen) Tj T* ET
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Green Hydrogen) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 401.8617 cm
-q
-1 0 0 1 1 -1 cm
-q
-.492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hydrogen is a potential solution as when it burns, it oxidises to H20 \(water\).) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 386.7367 cm
+1 0 0 1 62.69291 378.2367 cm
 q
 1 0 0 1 1 -1 cm
 q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
 0 0 1 RG
-n 115.2532 5.121125 m 269.0258 5.121125 l S
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A trial has already successfully taken place at ) Tj 0 0 1 rg (Keele University which replaced 15% of natural gas with hydrogen) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 376.8617 cm
-q
-1 0 0 1 1 -1 cm
-q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
-.492188 w
-0 0 1 RG
-n 12.83625 5.121125 m 132.7673 5.121125 l S
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (A ) Tj 0 0 1 rg (further trial is due to take place in Northern England) Tj 0 0 0 rg ( in 2021 in a small area to test the use of Hydrogen in real world conditions using equipment that has been decommissioned.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 359.1117 cm
-q
-1 0 0 1 1 -1 cm
-q
-BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+n 22.46475 20.87112 m 61.27275 20.87112 l S
 .492188 w
 .492188 w
-BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Adding 15% H2 to natural gas supply will be a short term measure which requires no changes to current natural gas boilers. Ultimately, gas boilers will need to be swapped for 100% hydrogen) Tj T* (boilers at some point, but this can be done on a specific area with incentives for householders to make the move.) Tj T* ET
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (if trials of ) Tj 0 0 1 rg (Green Hydrogen) Tj 0 0 0 rg ( are successful, terraced housing in UK cities will especially benefit. Initially, the intention is that 15% of the natural gas supply be replaced by hydrogen \(which doesn't require) Tj T* (any boiler swaps\) with a longer term aim of replacing natural gas completely \(will involve phased switchover as occurred when UK moved from town gas \(produced from coal\) to natural gas in the 1960s) Tj T* (& 70s\)) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 359.1117 cm
-Q
-q
-1 0 0 1 62.69291 320.3617 cm
-q
-1 0 0 1 1 -1 cm
-q
-.492188 w
-.492188 w
-.492188 w
-.492188 w
-0 0 1 RG
-n 97.18275 5.121125 m 136.5788 5.121125 l S
-BT 1 0 0 1 0 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hydrogen is primarily produced today from the byproduct of producing natural gas for domestic supply. However, another way of creating Hydrogen is to split water by electrolysis. This process isn't) Tj T* (currently used due to the costs of electrolysis outweighting the energy supplied. However, one of the issues of solar is that during the middle of the day, it produces more energy than the national grid) Tj T* (can accommodate. This excess energy could be used to produced Hydrogen rather than being wasted. This process can be considered as another example of energy storage. Hydrogen can be used) Tj T* (not only to heat houses but also to power ) Tj 0 0 1 rg (ships and planes) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 304.1867 cm
+1 0 0 1 62.69291 362.0617 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -460,7 +391,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 272.8917 cm
+1 0 0 1 62.69291 330.7667 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -474,7 +405,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 257.7667 cm
+1 0 0 1 62.69291 315.6417 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -486,7 +417,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 242.6417 cm
+1 0 0 1 62.69291 300.5167 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -499,7 +430,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 232.7667 cm
+1 0 0 1 62.69291 290.6417 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -512,7 +443,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 222.8917 cm
+1 0 0 1 62.69291 280.7667 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -525,7 +456,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 213.0167 cm
+1 0 0 1 62.69291 270.8917 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -538,10 +469,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 213.0167 cm
+1 0 0 1 62.69291 270.8917 cm
 Q
 q
-1 0 0 1 62.69291 196.8417 cm
+1 0 0 1 62.69291 254.7167 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -553,7 +484,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 165.5467 cm
+1 0 0 1 62.69291 223.4217 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -569,50 +500,48 @@ Q
  
 endstream
 endobj
-20 0 obj
+18 0 obj
 <<
-/Nums [ 0 21 0 R ]
+/Nums [ 0 19 0 R ]
 >>
 endobj
-21 0 obj
+19 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 22
+0 20
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
-0000000572 00000 n 
-0000000847 00000 n 
-0000001076 00000 n 
-0000001180 00000 n 
-0000001458 00000 n 
-0000001531 00000 n 
-0000001667 00000 n 
-0000001804 00000 n 
-0000001897 00000 n 
-0000002006 00000 n 
-0000002110 00000 n 
-0000002212 00000 n 
-0000002330 00000 n 
-0000002435 00000 n 
-0000002495 00000 n 
-0000015094 00000 n 
-0000015135 00000 n 
+0000000538 00000 n 
+0000000642 00000 n 
+0000000920 00000 n 
+0000000991 00000 n 
+0000001124 00000 n 
+0000001259 00000 n 
+0000001351 00000 n 
+0000001459 00000 n 
+0000001562 00000 n 
+0000001669 00000 n 
+0000001786 00000 n 
+0000001890 00000 n 
+0000001950 00000 n 
+0000012892 00000 n 
+0000012933 00000 n 
 trailer
 <<
 /ID 
-[<669e5b048bef1ab2bbb1d30663e56710><669e5b048bef1ab2bbb1d30663e56710>]
+[<7ae79f08962d588f889e07430ac79384><7ae79f08962d588f889e07430ac79384>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 8 0 R
-/Root 7 0 R
-/Size 22
+/Info 6 0 R
+/Root 5 0 R
+/Size 20
 >>
 startxref
-15169
+12967
 %%EOF
