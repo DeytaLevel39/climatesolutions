@@ -35,7 +35,7 @@ endobj
 <<
 /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.abeb44a389cc43a122c50db77bc3abe4 4 0 R
+/FormXob.5178af93a092cceb20a33a9dc61e7764 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -79,7 +79,7 @@ endobj
 <<
 /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.c1df2c8a61a15ff5a6aae893bfe7fc83 9 0 R /FormXob.d4c0ee7a3222e19b931352fe81e13625 7 0 R
+/FormXob.2400d7b04c159ee66b586d3aa2b29b29 7 0 R /FormXob.25fe3cc378454739c06339a9417aed5b 9 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -104,7 +104,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20201001133705+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001133705+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201001133957+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001133957+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Welcome to Climate Solutions) /Trapped /False
 >>
 endobj
@@ -159,7 +159,7 @@ q
 q
 q
 467.8898 0 0 283.966 0 2.03675 cm
-/FormXob.abeb44a389cc43a122c50db77bc3abe4 Do
+/FormXob.5178af93a092cceb20a33a9dc61e7764 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 284.2285 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -232,7 +232,7 @@ q
 q
 q
 467.8898 0 0 330.2751 0 2.03675 cm
-/FormXob.d4c0ee7a3222e19b931352fe81e13625 Do
+/FormXob.2400d7b04c159ee66b586d3aa2b29b29 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 330.5376 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -260,7 +260,7 @@ q
 q
 q
 467.8898 0 0 330.2751 0 2.03675 cm
-/FormXob.c1df2c8a61a15ff5a6aae893bfe7fc83 Do
+/FormXob.25fe3cc378454739c06339a9417aed5b Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 330.5376 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -274,7 +274,7 @@ endstream
 endobj
 21 0 obj
 <<
-/Length 3017
+/Length 3345
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -284,7 +284,9 @@ q
 1 0 0 1 1 -1 cm
 q
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The question is how can more be achieved, what's available now and what will be available in the future and by when.) Tj T* ET
+0 0 1 RG
+n 61.278 5.121125 m 120.5033 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The questions now are:- * ) Tj 0 0 1 rg (Will fossil fuels ever end?) Tj 0 0 0 rg ( * Can more be achieved? * What's available now? * what will be available in the future and by when.) Tj T* ET
 Q
 Q
 q
@@ -419,6 +421,18 @@ Q
 q
 Q
 Q
+q
+1 0 0 1 62.69291 635.3986 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Click through to see the answers to the questions for each area of UK life) Tj T* ET
+Q
+Q
+q
+Q
+Q
  
 endstream
 endobj
@@ -466,14 +480,14 @@ xref
 0001750145 00000 n 
 0001751825 00000 n 
 0001752646 00000 n 
-0001755715 00000 n 
-0001755774 00000 n 
-0001755808 00000 n 
-0001755842 00000 n 
+0001756043 00000 n 
+0001756102 00000 n 
+0001756136 00000 n 
+0001756170 00000 n 
 trailer
 <<
 /ID 
-[<fb38d653bf3e22906f2a83a1bcb0df87><fb38d653bf3e22906f2a83a1bcb0df87>]
+[<6e6e3eea42a0a38c51187491c0a39f80><6e6e3eea42a0a38c51187491c0a39f80>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 14 0 R
@@ -481,5 +495,5 @@ trailer
 /Size 26
 >>
 startxref
-1755876
+1756204
 %%EOF
