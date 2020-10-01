@@ -28,10 +28,11 @@ Rather than focusing on negative stories, this website intends to highlight solu
 
 In order to achieve zero carbon emissions, the following areas will need to be addressed
 
-<li><a href="electricity.html">Electrical Power Supply</a></li>
 <li><a href="building-energy-usage.html">Heating and cooling of buildings</a></li>
 <li><a href="transport.html">Transport</a></li>
+<li><a href="electricity.html">Electrical Power Supply</a></li>
+<li><a href="energy-storage.html">Battery Storage</a></li>
 <li><a href="agriculture.html">Agriculture</a></li>
 <li><a href="carbon-cleaning.html">Carbon Cleaning</a></li>
 <li><a href="carbon-credits.html">Carbon Credits</a></li>
-<li><a href="battery-storage.html">Battery Storage</a></li>
+
