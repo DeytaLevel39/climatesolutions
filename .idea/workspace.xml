@@ -2,55 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/energy-storage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/green-hydrogen.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/agriculture.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/agriculture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/agriculture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/author/climate-solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/climate-solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/battery-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/battery-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/building-energy-usage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/building-energy-usage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/agriculture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/buildings.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/buildings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/energy-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/energy-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/parliament.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/parliament.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/transport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/climate-solutions-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/climate-solutions-overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/dev_projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/dev_projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/government-initiatives.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/government-initiatives.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/agriculture.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/agriculture.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/electricity.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/electricity.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/government-initiatives.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/government-initiatives.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/transport.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/transport.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/agriculture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/air-conditioning.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/air-conditioning.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/batteries.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/batteries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/battery.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/battery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/buildings.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/buildings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/climate.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/climate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/cooling.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/cooling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/energy-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/energy-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/government.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/government.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/heat-pumps.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/heat-pumps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/heating.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/heating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/insulating.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/insulating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/power.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/power.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/renewable-energy.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/renewable-energy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/solar.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/transport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/transport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/battery-storage.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/battery-storage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/building-energy-usage.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/building-energy-usage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
