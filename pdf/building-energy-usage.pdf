@@ -27,7 +27,7 @@ endobj
 <<
 /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.41fb48a04758173eb6896d1392676a2d 4 0 R
+/FormXob.c19d3d0107babc2f4c79cadb1ec86153 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -52,7 +52,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20201001175736+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001175736+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201001180002+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001180002+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Building Energy Usage) /Trapped /False
 >>
 endobj
@@ -108,7 +108,7 @@ endobj
 endobj
 19 0 obj
 <<
-/Length 10477
+/Length 10490
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -125,7 +125,7 @@ q
 q
 q
 225.75 0 0 161.25 0 2.03675 cm
-/FormXob.41fb48a04758173eb6896d1392676a2d Do
+/FormXob.c19d3d0107babc2f4c79cadb1ec86153 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 161.5125 TL 225.75 0 Td /F1 5.25 Tf 6.3 TL  T* -225.75 0 Td ET
@@ -152,7 +152,7 @@ q
 1 0 0 1 1 -1 cm
 q
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (This part of the energy supply is responsible for the most CO2 emissions. The challenge here is really twofold:-) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (This energy supply sector is, after transport, responsible for the most CO2 emissions. The challenge here is really twofold:-) Tj T* ET
 Q
 Q
 q
@@ -582,14 +582,14 @@ xref
 0000052772 00000 n 
 0000052877 00000 n 
 0000052943 00000 n 
-0000063473 00000 n 
-0000064214 00000 n 
-0000064264 00000 n 
-0000064298 00000 n 
+0000063486 00000 n 
+0000064227 00000 n 
+0000064277 00000 n 
+0000064311 00000 n 
 trailer
 <<
 /ID 
-[<9e1d17bf39b0fd9edb548bac960da5f7><9e1d17bf39b0fd9edb548bac960da5f7>]
+[<2b792f7ec65728b9e836bf451aa809b8><2b792f7ec65728b9e836bf451aa809b8>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 8 0 R
@@ -597,5 +597,5 @@ trailer
 /Size 24
 >>
 startxref
-64332
+64345
 %%EOF
