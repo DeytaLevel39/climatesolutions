@@ -10,7 +10,7 @@ Summary: Covers challenges & solutions in keeping buildings at a comfortable tem
 
 ## Heating and cooling of buildings
 
-This part of the energy supply is responsible for the most CO2 emissions. The challenge here is really twofold:-
+This energy supply sector is, after transport,  responsible for the most CO2 emissions. The challenge here is really twofold:-
 
 1. Buildings need to be better insulated so as to not get too hot in the summer or too cold in the winter
 2. The heating and cooling supplies need to be powered off renewable electricity
@@ -46,13 +46,13 @@ Heat pumps are 3 times as efficient as gas boilers. They do require electricity 
 Challenges at the moment are that heat pumps do not provide as much heat as a gas boiler so your house needs to be fully insulated and radiators swapped for larger ones.
   
 ### Green Hydrogen 
-if trials of [Green Hydrogen](green-hydrogen.html) are successful, 
-terraced housing in UK cities will especially benefit. 
+if trials of [Green Hydrogen](green-hydrogen.html) are successful, terraced housing in UK cities will especially benefit. 
 Initially, the intention is that 15% of the natural gas supply be replaced by hydrogen (which doesn't require any boiler swaps) 
 with a longer term aim of replacing natural gas completely (will involve phased switchover as occurred when UK moved from town gas (produced from coal) to natural gas in the 1960s & 70s)
 
 
 ### External Wall insulation
+
 Houses that have been built post 1920 in the UK, tend to either have cavity walls, or may conform to current building regulations that require thick enough insulation that houses do not lose a lot of heat.
 1 of the problems in the UK, however, is that a lot of our housing stock pre-dates 1920 and is solid wall in construction. 
 Internal wall insulation is, of course, an option as well as external, but most people will not relish the disruption or loss of internal space. Note: You do not need to insulate internal walls, so with terraced houses, it's just the walls that face to the front & rear that need to be insulated.
