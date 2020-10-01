@@ -4,7 +4,7 @@ Tags: climate, solutions, buildings, electric vehicles, energy storage, heating
 Slug: green-hydrogen
 Authors: Climate Solutions
 Cover: https://ec.europa.eu/jrc/sites/jrcsh/files/styles/normal-responsive/public/cmalp_adobestock_205368769.jpeg?itok=ZbVBxBzp
-Summary: Covers challenges & solutions in keeping buildings at a comfortable temperature
+Summary: Covers the production of hydrogen (a renewable energy solution for transport & building heating) using water electrolysis
 
 ![Green Hydrogen cover image](https://ec.europa.eu/jrc/sites/jrcsh/files/styles/normal-responsive/public/cmalp_adobestock_205368769.jpeg?itok=ZbVBxBzp)
 
