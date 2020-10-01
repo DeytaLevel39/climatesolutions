@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/</loc>
-<lastmod>2020-10-01T13:28:36-00:00</lastmod>
+<lastmod>2020-10-01T13:30:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -27,13 +27,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.climatesolutions.org.uk/hot-water-storage.html</loc>
 <lastmod>2020-10-01T12:20:38+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.climatesolutions.org.uk/energy-storage.html</loc>
-<lastmod>2020-10-01T11:57:22+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -102,6 +95,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.climatesolutions.org.uk/energy-storage.html</loc>
+<lastmod>2020-10-01T13:30:28+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.climatesolutions.org.uk/category/agriculture.html</loc>
 <lastmod>2020-10-01T10:17:41-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -124,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/category/energy-storage.html</loc>
-<lastmod>2020-10-01T12:24:49-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -152,21 +152,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/climate.html</loc>
-<lastmod>2020-10-01T13:27:43-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/solutions.html</loc>
-<lastmod>2020-10-01T13:27:43-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/renewable-energy.html</loc>
-<lastmod>2020-10-01T13:27:43-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -194,7 +194,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/energy-storage.html</loc>
-<lastmod>2020-10-01T12:24:49-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -207,29 +207,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.climatesolutions.org.uk/tag/batteries.html</loc>
-<lastmod>2020-10-01T11:57:22-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.climatesolutions.org.uk/tag/hydro.html</loc>
-<lastmod>2020-10-01T11:57:22-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/hydroelectricity.html</loc>
-<lastmod>2020-10-01T11:57:22-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.climatesolutions.org.uk/tag/hydrogen.html</loc>
-<lastmod>2020-10-01T11:57:22-00:01</lastmod>
+<loc>https://www.climatesolutions.org.uk/tag/batteries.html</loc>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -319,8 +312,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.climatesolutions.org.uk/tag/hydrogen.html</loc>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.climatesolutions.org.uk/author/climate-solutions.html</loc>
-<lastmod>2020-10-01T13:27:43-00:01</lastmod>
+<lastmod>2020-10-01T13:30:28-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
