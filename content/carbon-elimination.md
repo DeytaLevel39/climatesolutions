@@ -41,7 +41,27 @@ It's not possible to reproduce this, and identifying and extracting new sources 
 So even if we set aside all of the environmental arguments for ending fossil fuels, the reality is that we are likely to run out of them within the next 100 years
 ![When will fossil fuels run out graph?](https://www.ecotricity.co.uk/cdn-images/images/7/7/1/3/13177-1-eng-GB/end-of-fossil-fuels-graph.jpg)
 
+## Isn't it incredibly expensive to transition to renewable energy?
 
+I think there are some perspectives that need to be considered when answering this question
 
- 
+1. Even if the effect on the earth's climate of burning fossil fuels hadn't been identified as an issue by scientists, 
+the fact remains that the supply of fossil fuels is due to run out within the next 100 years with oil & gas due to run out in the 
+next 50 years. Even if the move to renewables means that the time that fossil fuel reserves are exhausted is pushed back, it won't 
+be for long, so we need a solution to meet our energy needs.
+
+2. As human beings, our basic needs are simply shelter, food & air. The rest of the economy is there to meet our higher desires. 
+This added value is driven by capitalism, and consumerism in particular. 
+Going out on the high street in the UK in the 1980s wouldn't look particularly different from going out today. 
+Indeed in some respects things have gone backwards as we've become less competitive. 
+Most of our consumer led economy has moved online. Where we do still go out, events & hospitality tend to be rebrands of what was essentially there 40 years ago. 
+Now capitalism has always had a need to re-invent itself. We moved from a feudal system to an agrarian revolution to an industrial revolution to a digital economy. 
+Capitalism is not about staying still or considering transitions to be simply about costs. 
+Consumers are interested in exciting new products & ideas. The move to renewable energy has already delivered transformative ideas 
+in the electrical supply & transport sector which have driven the economy forward with genuinely new innovations rather than 
+simply a marketing exercise.  
+
+3. If we are able to go truly zero carbon by 2050, this would be a major transformation of our world, not just because it would be cleaner 
+but because we'd have energy security and the knowledge that mankind is capable of improving the earth. 
+This seems to me to be a bigger deal than landing a man on the moon was or getting to Mars.  
 
