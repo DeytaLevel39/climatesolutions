@@ -22,7 +22,11 @@ The good news is that the whole world has become much more energy efficient in l
 
 <img alt="Energy intensity of economies" src="https://climatesolutions.org.uk/images/energy-intensity-of-economies_v3_850x600.png">
 
-The question is how can more be achieved, what's available now and what will be available in the future and by when.
+The questions now are:- 
+* [Will fossil fuels ever end?](carbon-elimination.html) 
+* Can more be achieved? 
+* What's available now?
+* what will be available in the future and by when.
 
 Rather than focusing on negative stories, this website intends to highlight solutions to get us to a zero carbon future.
 
@@ -36,3 +40,4 @@ In order to achieve zero carbon emissions, the following areas will need to be a
 <li><a href="carbon-cleaning.html">Carbon Cleaning</a></li>
 <li><a href="carbon-credits.html">Carbon Credits</a></li>
 
+Click through to see the answers to the questions for each area of UK life
