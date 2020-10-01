@@ -35,7 +35,7 @@ endobj
 <<
 /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.39f7247e664ac873c89994cb05670161 5 0 R /FormXob.8eac1e996351ef9cf45dcf3a5522b1e2 4 0 R
+/FormXob.103aa8e3867321f37df99ff54661a4a3 4 0 R /FormXob.c15e6a569d7d3205e287f8da37b8e33e 5 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -55,7 +55,7 @@ endobj
 <<
 /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.644928f53dd4a8211166efb89e53fe78 7 0 R
+/FormXob.18440cce28e4870ce1ea68fcc74b16ad 7 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -70,7 +70,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20201001133214+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001133214+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201001133241+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001133241+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Can Fossil Fuels really disappear?) /Trapped /False
 >>
 endobj
@@ -141,7 +141,7 @@ q
 .492188 w
 q
 465 0 0 309.75 0 4.793 cm
-/FormXob.8eac1e996351ef9cf45dcf3a5522b1e2 Do
+/FormXob.103aa8e3867321f37df99ff54661a4a3 Do
 Q
 .492188 w
 BT 1 0 0 1 0 315.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (When climate change is promoted in the UK, most people think of:-) Tj T* 310.0125 TL 1 0 0 1 0 5.843 Tm 465 0 Td  T* -465 0 Td ET
@@ -169,7 +169,7 @@ q
 q
 q
 467.8898 0 0 263.188 0 2.03675 cm
-/FormXob.39f7247e664ac873c89994cb05670161 Do
+/FormXob.c15e6a569d7d3205e287f8da37b8e33e Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 263.4505 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -296,7 +296,7 @@ q
 .492188 w
 q
 412.5 0 0 270 14.29575 4.82975 cm
-/FormXob.644928f53dd4a8211166efb89e53fe78 Do
+/FormXob.18440cce28e4870ce1ea68fcc74b16ad Do
 Q
 .492188 w
 BT 1 0 0 1 0 284.0172 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The answer is no, fossil fuels are created over millions of years from initial decomposition of animal & vegestation and pressure. It's not possible to reproduce this, and identifying and extracting new) Tj T* (sources of fossil fuels gets more difficult over time. So even if we set aside all of the environmental arguments for ending fossil fuels, the reality is that we are likely to run out of them within the next 100) Tj T* 270.2625 TL 1 0 0 1 0 5.87975 Tm (years ) Tj 426.7957 0 Td  T* -426.7957 0 Td ET
@@ -351,7 +351,7 @@ xref
 trailer
 <<
 /ID 
-[<6d39a829488e33344aa5c22c48145118><6d39a829488e33344aa5c22c48145118>]
+[<c70eb50aeced89618e2f4fbe9fcbd97c><c70eb50aeced89618e2f4fbe9fcbd97c>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
