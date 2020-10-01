@@ -27,14 +27,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.climatesolutions.org.uk/battery-storage.html)
->> /Border [ 0 0 0 ] /Rect [ 417.9209 361.1545 521.5034 369.0295 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 176.0377 353.2795 279.6202 361.1545 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 5 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Annots [ 5 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.857a1154616a6203e67a68e3d83d2e18 4 0 R
+/FormXob.1ed38fa62663d9dea3ea0d6987e33cd9 4 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -52,9 +52,9 @@ s4IA0!"_al8O`[\!WW42!+Z'0s6K^t7!3!TGlRjF"98E%A,lW0mJnS"A8bpg!+`kF!!!$%!#5V="pte>
 endobj
 8 0 obj
 <<
-/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.2569e5e25a2df006c40ccaf51835aecf 7 0 R
+/FormXob.93fc27087b04f56cc374125acf8a4dad 7 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -64,43 +64,59 @@ endobj
 endobj
 9 0 obj
 <<
-/Outlines 11 0 R /PageLabels 18 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog
+/Outlines 11 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
 >>
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20201001174537+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001174537+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201001175723+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001175723+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Transport) /Trapped /False
 >>
 endobj
 11 0 obj
 <<
-/Count 2 /First 12 0 R /Last 12 0 R /Type /Outlines
+/Count 3 /First 12 0 R /Last 12 0 R /Type /Outlines
 >>
 endobj
 12 0 obj
 <<
-/Count -2 /Dest [ 6 0 R /Fit ] /First 13 0 R /Last 14 0 R /Parent 11 0 R /Title (Transport)
+/Count -2 /Dest [ 6 0 R /Fit ] /First 13 0 R /Last 17 0 R /Parent 11 0 R /Title (Transport)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Next 14 0 R /Parent 12 0 R /Title (Cars, Vans, Buses & Heavy Goods Vehicles)
+/Count -3 /Dest [ 6 0 R /Fit ] /First 14 0 R /Last 16 0 R /Next 17 0 R /Parent 12 0 R 
+  /Title (Cars, Vans, Buses & Heavy Goods Vehicles)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 8 0 R /Fit ] /Parent 12 0 R /Prev 13 0 R /Title (Ships, Aeroplanes & Trains)
+/Dest [ 8 0 R /Fit ] /Next 15 0 R /Parent 13 0 R /Title (Remaining challenges)
 >>
 endobj
 15 0 obj
 <<
-/Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages
+/Dest [ 8 0 R /Fit ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Industry solutions)
 >>
 endobj
 16 0 obj
 <<
-/Length 1528
+/Dest [ 8 0 R /Fit ] /Parent 13 0 R /Prev 15 0 R /Title (Government solutions)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 8 0 R /Fit ] /Parent 12 0 R /Prev 13 0 R /Title (Ships, Aeroplanes & Trains)
+>>
+endobj
+18 0 obj
+<<
+/Count 2 /Kids [ 6 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+19 0 obj
+<<
+/Length 2028
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -117,7 +133,7 @@ q
 q
 q
 467.8898 0 0 316.8004 0 2.03675 cm
-/FormXob.857a1154616a6203e67a68e3d83d2e18 Do
+/FormXob.1ed38fa62663d9dea3ea0d6987e33cd9 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 317.0629 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -151,16 +167,29 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 340.9553 cm
+1 0 0 1 62.69291 333.0803 cm
 q
 1 0 0 1 1 -1 cm
 q
 .492188 w
+.492188 w
 0 0 1 RG
-n 354.228 20.87112 m 457.8105 20.87112 l S
+n 112.3448 20.87112 m 215.9273 20.87112 l S
 .492188 w
 .492188 w
-BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Transport is an area that is showing promise as electric vans & cars aim to displace petrol & diesel. The most expensive item in an EV is the battery and ) Tj 0 0 1 rg (battery prices are coming down year on year) Tj 0 0 0 rg (. It's) Tj T* (expected that in 2022, EVs will be an equivalent price to petrol/diesel vehicles. At that point, sales should go from less than 1% of total global car sales up to 35% by 2040. The UK is currently planning) Tj T* (to ban petrol/diesel cars by 2035 and may bring this forward, dependent on whether progress is made as expected.) Tj T* ET
+BT 1 0 0 1 0 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Transport is currently the sector that is responsible for the most CO2 emissions, but is showing great promise in combatting this issue as electric vans & cars \(EVs\) aim to displace petrol & diesel. The) Tj T* (most expensive item in an EV is the battery and ) Tj 0 0 1 rg (battery prices are coming down year on year) Tj 0 0 0 rg (. It's expected that in 2022, EVs will be an equivalent price to petrol/diesel vehicles. At that point, sales) Tj T* (should go from less than 1% of total global car sales up to 35% by 2040. The total cost of ownership \(TCO\) of EVs is already below that of petrol/diesel equivalents due to maintenance costs being) Tj T* (much lower due to less moving parts and the cost of charging EVs especially from home is substantially cheaper than fuel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 317.9553 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (The UK is currently planning to ban petrol/diesel cars by 2035 and may bring this forward, dependent on whether progress is made as expected.) Tj T* ET
 Q
 Q
 q
@@ -169,9 +198,9 @@ Q
  
 endstream
 endobj
-17 0 obj
+20 0 obj
 <<
-/Length 4198
+/Length 7096
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -182,7 +211,7 @@ q
 q
 q
 467.8898 0 0 337.0071 0 2.03675 cm
-/FormXob.2569e5e25a2df006c40ccaf51835aecf Do
+/FormXob.93fc27087b04f56cc374125acf8a4dad Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 337.2696 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -192,19 +221,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 410.8548 cm
+1 0 0 1 62.69291 409.8048 cm
 q
 1 0 0 1 1 -1 cm
 q
-.492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Challenges around electric cars include:-) Tj T* ET
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Remaining challenges) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 395.7298 cm
+1 0 0 1 62.69291 394.2598 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -217,7 +246,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 377.9798 cm
+1 0 0 1 62.69291 376.5098 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -231,7 +260,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 368.1048 cm
+1 0 0 1 62.69291 366.6348 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -244,7 +273,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 350.3548 cm
+1 0 0 1 62.69291 348.8848 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -258,11 +287,24 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 340.4798 cm
+1 0 0 1 62.69291 339.0098 cm
 q
 1 0 0 1 1 -1 cm
 q
 BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (5.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Lack of trained mechanics) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 329.1348 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (6.) Tj ET
 .492188 w
 BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Use of Cobalt in batteries. There are 2 problems here:-) Tj T* ET
 Q
@@ -271,7 +313,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 330.6048 cm
+1 0 0 1 62.69291 319.2598 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -284,7 +326,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 320.7298 cm
+1 0 0 1 62.69291 309.3848 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -297,13 +339,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 320.7298 cm
+1 0 0 1 62.69291 309.3848 cm
 Q
 q
-1 0 0 1 62.69291 320.7298 cm
+1 0 0 1 62.69291 309.3848 cm
 Q
 q
-1 0 0 1 62.69291 305.6048 cm
+1 0 0 1 62.69291 294.2598 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -315,7 +357,130 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 287.4479 cm
+1 0 0 1 62.69291 278.0848 cm
+q
+1 0 0 1 1 -1 cm
+q
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Industry solutions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 262.5398 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
+.492188 w
+0 0 1 RG
+n 166.3253 5.121125 m 239.274 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Focus on replacing Cobalt as a stablising agent within the batteries. ) Tj 0 0 1 rg (Tesla is leading the way on this) Tj 0 0 0 rg (https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 252.6648 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Work with other automakers on standardising chargers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 242.7898 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (3.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Continue to drive down battery costs and improve times required between recharging) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 232.9148 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (4.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Train mechanics to be able to service EVs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 232.9148 cm
+Q
+q
+1 0 0 1 62.69291 216.7398 cm
+q
+1 0 0 1 1 -1 cm
+q
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (Government solutions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 201.1948 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Focus on improving the availability of on-street and off-street charging stations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 191.3198 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (2.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Legislate to require that all chargers be standardised) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 181.4448 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (3.) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Make the case for EVs by focusing people's attention on the TCO and expected lower purchase costs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 181.4448 cm
+Q
+q
+1 0 0 1 62.69291 163.2879 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -327,15 +492,15 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 263.2352 cm
+1 0 0 1 62.69291 139.0752 cm
 q
 1 0 0 1 1 -1 cm
 q
 .492188 w
 0 0 1 RG
-n 407.0482 12.99612 m 429.807 12.99612 l S
+n 407.0482 12.99612 m 443.8193 12.99612 l S
 .492188 w
-BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Batteries are not really a viable option for ships \(which require more power\) or for aeroplanes \(which would not be able to carry passengers and heavy batteries\) In both cases, ) Tj 0 0 1 rg (Hydrogen) Tj 0 0 0 rg ( is currently) Tj T* (looking like the best power option. Many railways are currently electrified but hydrogen is another potential candidate for trains where electrification is not viable.) Tj T* ET
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Batteries are not really a viable option for ships \(which require more power\) or for aeroplanes \(which would not be able to carry passengers and heavy batteries\) In both cases, ) Tj 0 0 1 rg (green hydrogen) Tj 0 0 0 rg ( is) Tj T* (currently looking like the best power option. Many railways are currently electrified but green hydrogen is another potential candidate for trains where electrification is not viable.) Tj T* ET
 Q
 Q
 q
@@ -344,23 +509,23 @@ Q
  
 endstream
 endobj
-18 0 obj
+21 0 obj
 <<
-/Nums [ 0 19 0 R 1 20 0 R ]
+/Nums [ 0 22 0 R 1 23 0 R ]
 >>
 endobj
-19 0 obj
+22 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-20 0 obj
+23 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 21
+0 24
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -375,23 +540,26 @@ xref
 0000146541 00000 n 
 0000146615 00000 n 
 0000146729 00000 n 
-0000146850 00000 n 
-0000146957 00000 n 
-0000147023 00000 n 
-0000148603 00000 n 
-0000152853 00000 n 
-0000152903 00000 n 
-0000152937 00000 n 
+0000146890 00000 n 
+0000146991 00000 n 
+0000147103 00000 n 
+0000147204 00000 n 
+0000147311 00000 n 
+0000147377 00000 n 
+0000149457 00000 n 
+0000156605 00000 n 
+0000156655 00000 n 
+0000156689 00000 n 
 trailer
 <<
 /ID 
-[<66bb97e87ad802cb5cdee9f4b25a291b><66bb97e87ad802cb5cdee9f4b25a291b>]
+[<c39654858ab236359f665074397d2e5f><c39654858ab236359f665074397d2e5f>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
 /Root 9 0 R
-/Size 21
+/Size 24
 >>
 startxref
-152971
+156723
 %%EOF
