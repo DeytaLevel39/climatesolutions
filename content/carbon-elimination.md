@@ -65,3 +65,7 @@ simply a marketing exercise.
 but because we'd have energy security and the knowledge that mankind is capable of improving the earth. 
 This seems to me to be a bigger deal than landing a man on the moon was or getting to Mars.  
 
+4. It's not just climate activists protesting on the street, who are behind the renewable energy movement. 
+It includes major finance houses such as [Goldman Sachs](https://www.fool.com/investing/2020/09/27/the-12-trillion-once-in-a-lifetime-market-opportun) 
+& [Blackstone](https://www.institutionalinvestor.com/article/b1fvf6jyd10tmk/Blackstone-Raises-4-5-Billion-for-Energy-Fund) and all the major political parties have [policies that advocate reduction in fossil fuels](https://www.theclimategroup.org/sites/default/files/archive/files/UK-parties-climate-energy-briefing-April-2015.pdf) in the UK.
+
