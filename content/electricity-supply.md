@@ -30,4 +30,4 @@ The use of renewables for electrical supply continues to increase as a percentag
 ![Historical & projected electrical supply by source](https://deytalytics.github.io/climatesolutions/images/world-net-electricity-generation.jpg)
 
 In the UK, onshore Wind has been the standout solution for [electrical power supply but on any given day](https://www.energydashboard.co.uk/live), the mixture of energy sources can vary.
-Improvements are underway to provide a '[Smart National Grid](https://www.thegreenage.co.uk/tech/features-of-smart-grid/)' to allow microgenerators e.g. domestic solar to boost renewable use, whereas this extra power often goes to waste currently due to the grid being less able to cope with spikes in supply.
+Improvements are underway to provide a '[Smart National Grid](https://www.thegreenage.co.uk/tech/features-of-smart-grid/)' to allow microgenerators e.g. domestic solar to boost renewable energy supply, whereas this extra power often goes to waste currently due to the grid being less able to cope with spikes in supply.
