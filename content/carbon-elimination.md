@@ -20,8 +20,11 @@ very little is provided or there is a call for a radical change in people's life
 What there is much less of a focus on is that UK companies across the board have made huge reductions in their use of fossil fuels and this trend is likely to continue.
 
 ## Coal - the fossilised fossil fuel 
-If you think about it, the UK kicked off the industrial revolution using a fossil fuel that is pretty much not used anywhere in the UK now - coal. 
-Up until the 1950s, coal was the main form of domestic heating, powered trains as well as industry, so it's amazing how quickly it's disappeared, and does anybody mourn it's loss?
+If you think about it, the UK kicked off the industrial revolution using a fossil fuel that is 
+pretty much not used anywhere in the UK now - coal. 
+The UK government announced in February 2020, that [Coal will completely disappear as an energy supply by 1 October 2024](https://www.gov.uk/government/news/end-of-coal-power-to-be-brought-forward-in-drive-towards-net-zero#:~:text=The%20deadline%20for%20the%20phase,a%20speech%20to%20launch%20COP26%20.&text=Last%20year%20more%20than%20half,came%20from%20low%2Dcarbon%20sources.) at latest.
+Up until the 1950s, coal was the main form of domestic heating, powered trains as well as industry, so it's amazing 
+how quickly it's disappeared, and does anybody mourn it's loss?
 The evidence of coal is gradually disappearing even from the landscape. Pits have been closed down, slag heaps grassed over and the effects of smoke on buildings sandblasted away. 
 London's reputation as a city of permanent smog is confined to the history books.
 
