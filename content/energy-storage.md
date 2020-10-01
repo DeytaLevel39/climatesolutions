@@ -1,7 +1,7 @@
 Title: Energy storage
 Category: Energy storage
 Tags: climate, solutions, renewable energy, batteries, hydro, hydroelectricity, hydrogen, energy storage
-Date: 2010-10-02
+Date: 2010-09-30
 Slug: energy-storage
 Authors: Climate Solutions
 Cover: https://chinadialogueocean.net/wp-content/uploads/2019/09/Ocean-climate-solutions-and-their-potential-annual-greenhouse-gas-reductions-in-2050-1440x872.png
