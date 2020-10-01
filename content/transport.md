@@ -43,7 +43,18 @@ Electric Vehicles work well for cars, vans and buses and potentially heavy goods
 2. Legislate to require that all chargers be standardised
 3. Make the case for EVs by focusing people's attention on the TCO and expected lower purchase costs
 
+## eBikes, eScooters & Car Sharing
+These proposals as an addiitonal method to replace some car journeys are dicussed in this video from the University of Leeds Climate Solutions department
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otxkdaNAKls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a name="ships_and_planes"></a>
+
+* eBikes could replace medium length journeys were public transport is not available e.g. a trip from the countryside in to town. 
+
+* eScooters assist for short trips e.g. to get to a public transport hub or to pick up small groceries.
+
+* Car sharing clubs can be used by colleagues who live in close proximity to each other 
+
 ## Ships, Aeroplanes & Trains
 Batteries are not really a viable option for ships (which require more power) or for aeroplanes (which would not be able to carry passengers and heavy batteries)
 In both cases, [green hydrogen](green-hydrogen.html) is currently looking like the best power option. 
