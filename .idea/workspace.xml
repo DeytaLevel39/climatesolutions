@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/agriculture.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/agriculture.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/agriculture.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/author/climate-solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/climate-solutions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/battery-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/battery-storage.html" afterDir="false" />
@@ -64,7 +65,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/output" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i2qJXPDGw5YEes6GnKsoEPP4Gc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
