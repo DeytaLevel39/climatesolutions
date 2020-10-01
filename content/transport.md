@@ -11,27 +11,41 @@ Summary: Covers challenges & solutions dealing with tranport's move away from fo
 # Transport
 
 ## Cars, Vans, Buses & Heavy Goods Vehicles
-Transport is an area that is showing promise as electric vans & cars aim to displace petrol & diesel. 
+Transport is currently the sector that is responsible for the most CO2 emissions, but is showing great promise in combatting this issue as electric vans & cars (EVs) aim to displace petrol & diesel. 
 The most expensive item in an EV is the battery and [battery prices are coming down year on year](https://www.climatesolutions.org.uk/battery-storage.html). It's expected that in 2022, EVs will be an equivalent price to petrol/diesel vehicles. At that point, sales should go from less than 1% of total global car sales up to 35% by 2040. 
+The total cost of ownership (TCO) of EVs is already below that of petrol/diesel equivalents due to maintenance costs being much lower due to less moving parts and the cost of charging EVs especially from home is substantially cheaper than fuel. 
+ 
 The UK is currently planning to ban petrol/diesel cars by 2035 and may bring this forward, dependent on whether progress is made as expected.
 
 ![The Rise of Electric Cars](https://www.bloomberg.com/features/2016-ev-oil-crisis/img/ev-sales.jpg)
 
-Challenges around electric cars include:-
+### Remaining challenges
 
 1. Range between re-fueling. Some of the higher end models can now reasonably achieve 250 miles but the cheaper models have much lower ranges
 2. The time it takes to re-charge an EV. This can vary from overnight at home to half an hour using a supercharger. Both will be inadequate unless there are more charging stations than there are currently fuel pumps
 3. Extent of recharging stations. These are gradually being rolled out and things are improving each year
 4. Incompatibility of recharging options. The different EV vendors really need to agree a common standard in terms of shape of charger and power options. Government will need to intervene if the industry cannot resolve this.
-5. Use of Cobalt in batteries. There are 2 problems here:-
+5. Lack of trained mechanics
+6. Use of Cobalt in batteries. There are 2 problems here:-
     * Cobalt is a comparitively rare element so there won't be enough of it to supply all EV vehicles if everybody has one.  
     * Cobalt is mined in Africa often using child labour and causing pollution to the land
 
 Electric Vehicles work well for cars, vans and buses and potentially heavy goods vehicles (due to them having long wheelbases that could support battery storage).
 
+### Industry solutions
+1. Focus on replacing Cobalt as a stablising agent within the batteries. [Tesla is leading the way on this]()https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/)
+2. Work with other automakers on standardising chargers
+3. Continue to drive down battery costs and improve times required between recharging
+4. Train mechanics to be able to service EVs
+
+### Government solutions
+1. Focus on improving the availability of on-street and off-street charging stations
+2. Legislate to require that all chargers be standardised
+3. Make the case for EVs by focusing people's attention on the TCO and expected lower purchase costs
+
 <a name="ships_and_planes"></a>
 ## Ships, Aeroplanes & Trains
 Batteries are not really a viable option for ships (which require more power) or for aeroplanes (which would not be able to carry passengers and heavy batteries)
-In both cases, <a href="building-energy-usage.html#hydrogen">Hydrogen</a> is currently looking like the best power option. 
-Many railways are currently electrified but hydrogen is another potential candidate for trains where electrification is not viable.
+In both cases, [green hydrogen](green-hydrogen.html) is currently looking like the best power option. 
+Many railways are currently electrified but green hydrogen is another potential candidate for trains where electrification is not viable.
 
