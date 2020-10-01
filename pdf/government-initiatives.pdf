@@ -40,29 +40,43 @@ endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bbc.co.uk/news/uk-politics-48126677)
->> /Border [ 0 0 0 ] /Rect [ 122.3407 532.9361 166.3934 540.8111 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/environment/2016/nov/17/uk-boris-johnson-ratifies-paris-climate-agreement)
+>> /Border [ 0 0 0 ] /Rect [ 141.0149 532.9361 384.0742 540.8111 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.gov.uk/government/news/end-of-coal-power-to-be-brought-forward-in-drive-towards-net-zero#:~:text=The%20deadline%20for%20the%20phase,a%20speech%20to%20launch%20COP26%20.&text=Last%20year%20more%20than%20half,came%20from%20low%2Dcarbon%20sources.)
->> /Border [ 0 0 0 ] /Rect [ 117.9622 523.0611 284.2927 530.9361 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.bbc.co.uk/news/uk-politics-48126677)
+>> /Border [ 0 0 0 ] /Rect [ 122.3407 523.0611 166.3934 530.9361 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.climateassembly.uk/)
->> /Border [ 0 0 0 ] /Rect [ 124.9709 513.1861 166.9762 521.0611 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.gov.uk/government/news/end-of-coal-power-to-be-brought-forward-in-drive-towards-net-zero#:~:text=The%20deadline%20for%20the%20phase,a%20speech%20to%20launch%20COP26%20.&text=Last%20year%20more%20than%20half,came%20from%20low%2Dcarbon%20sources.)
+>> /Border [ 0 0 0 ] /Rect [ 117.9622 513.1861 284.2927 521.0611 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.climateassembly.uk/)
+>> /Border [ 0 0 0 ] /Rect [ 124.9709 503.3111 166.9762 511.1861 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ukcop26.org/)
+>> /Border [ 0 0 0 ] /Rect [ 151.8142 485.5611 252.7664 493.4361 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.04088653c7732c3d9377cad6770caece 4 0 R
+/FormXob.f711d509848a7c354538c5ec65a576dc 4 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -70,25 +84,25 @@ endobj
 >> /Type /Page
 >>
 endobj
-11 0 obj
-<<
-/PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
->>
-endobj
-12 0 obj
-<<
-/Author () /CreationDate (D:20201001191126+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001191126+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (UK Parliament Initiatives) /Trapped /False
->>
-endobj
 13 0 obj
 <<
-/Count 1 /Kids [ 10 0 R ] /Type /Pages
+/PageLabels 17 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog
 >>
 endobj
 14 0 obj
 <<
-/Length 3229
+/Author () /CreationDate (D:20201001193129+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001193129+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (UK Parliament Initiatives) /Trapped /False
+>>
+endobj
+15 0 obj
+<<
+/Count 1 /Kids [ 12 0 R ] /Type /Pages
+>>
+endobj
+16 0 obj
+<<
+/Length 4037
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -105,7 +119,7 @@ q
 q
 q
 222.75 0 0 127.5 0 2.03675 cm
-/FormXob.04088653c7732c3d9377cad6770caece Do
+/FormXob.f711d509848a7c354538c5ec65a576dc Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 127.7625 TL 222.75 0 Td /F1 5.25 Tf 6.3 TL  T* -222.75 0 Td ET
@@ -177,6 +191,21 @@ q
 BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
 0 0 1 RG
+n 77.322 5.121125 m 320.3813 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2016 - UK signs & ratifies the ) Tj 0 0 1 rg (Paris Agreement committing to ensure that CO2 emissions do not increase the global temperature by 2C) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 518.6119 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
 n 58.64775 5.121125 m 102.7005 5.121125 l S
 BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2019 - UK declares a ) Tj 0 0 1 rg (climate emergency) Tj T* ET
 Q
@@ -185,7 +214,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 518.6119 cm
+1 0 0 1 62.69291 508.7369 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -200,7 +229,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 500.8619 cm
+1 0 0 1 62.69291 490.9869 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -216,23 +245,38 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 500.8619 cm
+1 0 0 1 62.69291 481.1119 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 88.12125 5.121125 m 189.0735 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2021 - UK to co-host with Italy the ) Tj 0 0 1 rg (Climate Conference of the Parties \(COP26\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 481.1119 cm
 Q
  
 endstream
 endobj
-15 0 obj
+17 0 obj
 <<
-/Nums [ 0 16 0 R ]
+/Nums [ 0 18 0 R ]
 >>
 endobj
-16 0 obj
+18 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 17
+0 19
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -241,25 +285,27 @@ xref
 0000016573 00000 n 
 0000016809 00000 n 
 0000017064 00000 n 
-0000017263 00000 n 
-0000017671 00000 n 
-0000017854 00000 n 
-0000018165 00000 n 
-0000018254 00000 n 
-0000018537 00000 n 
-0000018598 00000 n 
-0000021879 00000 n 
-0000021920 00000 n 
+0000017317 00000 n 
+0000017516 00000 n 
+0000017924 00000 n 
+0000018108 00000 n 
+0000018285 00000 n 
+0000018610 00000 n 
+0000018699 00000 n 
+0000018982 00000 n 
+0000019043 00000 n 
+0000023132 00000 n 
+0000023173 00000 n 
 trailer
 <<
 /ID 
-[<2134e2e5c7529de3855b18483399efa0><2134e2e5c7529de3855b18483399efa0>]
+[<4725d80bedf090f7a36ffb9df8c486fe><4725d80bedf090f7a36ffb9df8c486fe>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 12 0 R
-/Root 11 0 R
-/Size 17
+/Info 14 0 R
+/Root 13 0 R
+/Size 19
 >>
 startxref
-21954
+23207
 %%EOF
