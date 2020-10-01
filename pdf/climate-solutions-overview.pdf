@@ -35,7 +35,7 @@ endobj
 <<
 /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.636543c15349eeda5c2663ac08f04e3a 4 0 R
+/FormXob.abeb44a389cc43a122c50db77bc3abe4 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -79,7 +79,7 @@ endobj
 <<
 /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.96e4cf346519e33d354d57a4bd51c6b4 7 0 R /FormXob.e2bdcf79276389d83c1a41a076f6c6be 9 0 R
+/FormXob.c1df2c8a61a15ff5a6aae893bfe7fc83 9 0 R /FormXob.d4c0ee7a3222e19b931352fe81e13625 7 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -104,7 +104,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20201001133412+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001133412+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201001133705+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001133705+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Welcome to Climate Solutions) /Trapped /False
 >>
 endobj
@@ -159,7 +159,7 @@ q
 q
 q
 467.8898 0 0 283.966 0 2.03675 cm
-/FormXob.636543c15349eeda5c2663ac08f04e3a Do
+/FormXob.abeb44a389cc43a122c50db77bc3abe4 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 284.2285 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -232,7 +232,7 @@ q
 q
 q
 467.8898 0 0 330.2751 0 2.03675 cm
-/FormXob.96e4cf346519e33d354d57a4bd51c6b4 Do
+/FormXob.d4c0ee7a3222e19b931352fe81e13625 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 330.5376 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -260,7 +260,7 @@ q
 q
 q
 467.8898 0 0 330.2751 0 2.03675 cm
-/FormXob.e2bdcf79276389d83c1a41a076f6c6be Do
+/FormXob.c1df2c8a61a15ff5a6aae893bfe7fc83 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 330.5376 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -322,21 +322,6 @@ q
 BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
 0 0 1 RG
-n 4.9875 5.121125 m 60.12825 5.121125 l S
-BT 1 0 0 1 0 6.1055 Tm 4.9875 0 Td 7.875 TL /F1 5.25 Tf 0 0 1 rg (Electrical Power Supply) Tj T* -4.9875 0 Td ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 699.8986 cm
-q
-1 0 0 1 1 -1 cm
-q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
-.492188 w
-0 0 1 RG
 n 4.9875 5.121125 m 79.401 5.121125 l S
 BT 1 0 0 1 0 6.1055 Tm 4.9875 0 Td 7.875 TL /F1 5.25 Tf 0 0 1 rg (Heating and cooling of buildings) Tj T* -4.9875 0 Td ET
 Q
@@ -345,7 +330,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 690.0236 cm
+1 0 0 1 62.69291 699.8986 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -360,7 +345,37 @@ q
 Q
 Q
 q
+1 0 0 1 62.69291 690.0236 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 4.9875 5.121125 m 60.12825 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 4.9875 0 Td 7.875 TL /F1 5.25 Tf 0 0 1 rg (Electrical Power Supply) Tj T* -4.9875 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
 1 0 0 1 62.69291 680.1486 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 4.9875 5.121125 m 41.4645 5.121125 l S
+BT 1 0 0 1 0 6.1055 Tm 4.9875 0 Td 7.875 TL /F1 5.25 Tf 0 0 1 rg (Battery Storage) Tj T* -4.9875 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 670.2736 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -375,7 +390,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 670.2736 cm
+1 0 0 1 62.69291 660.3986 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -390,7 +405,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 660.3986 cm
+1 0 0 1 62.69291 650.5236 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -399,21 +414,6 @@ BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (
 0 0 1 RG
 n 4.9875 5.121125 m 40.2885 5.121125 l S
 BT 1 0 0 1 0 6.1055 Tm 4.9875 0 Td 7.875 TL /F1 5.25 Tf 0 0 1 rg (Carbon Credits) Tj T* -4.9875 0 Td ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 650.5236 cm
-q
-1 0 0 1 1 -1 cm
-q
-BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
-.492188 w
-0 0 1 RG
-n 4.9875 5.121125 m 41.4645 5.121125 l S
-BT 1 0 0 1 0 6.1055 Tm 4.9875 0 Td 7.875 TL /F1 5.25 Tf 0 0 1 rg (Battery Storage) Tj T* -4.9875 0 Td ET
 Q
 Q
 q
@@ -473,7 +473,7 @@ xref
 trailer
 <<
 /ID 
-[<53cc0bec9c1ca55d01d1b7754aa55820><53cc0bec9c1ca55d01d1b7754aa55820>]
+[<fb38d653bf3e22906f2a83a1bcb0df87><fb38d653bf3e22906f2a83a1bcb0df87>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 14 0 R
