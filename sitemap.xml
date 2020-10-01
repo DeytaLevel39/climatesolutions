@@ -5,8 +5,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/</loc>
-<lastmod>2020-10-01T13:46:20-00:00</lastmod>
+<lastmod>2020-10-01T13:51:13-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/government-initiatives.html</loc>
+<lastmod>2020-10-01T13:51:09+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/carbon-elimination.html</loc>
+<lastmod>2020-10-01T13:49:55+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -20,13 +34,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.climatesolutions.org.uk/climate-solutions-overview.html</loc>
 <lastmod>2020-10-01T13:39:51+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.climatesolutions.org.uk/carbon-elimination.html</loc>
-<lastmod>2020-10-01T13:27:43+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,13 +95,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.climatesolutions.org.uk/government-initiatives.html</loc>
-<lastmod>2020-09-27T21:15:28+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.climatesolutions.org.uk/energy-storage.html</loc>
 <lastmod>2020-10-01T13:33:57+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -131,14 +131,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/category/overview.html</loc>
-<lastmod>2020-10-01T13:39:51-00:01</lastmod>
+<lastmod>2020-10-01T13:49:55-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/category/parliament.html</loc>
-<lastmod>2020-09-27T21:15:28-00:01</lastmod>
+<lastmod>2020-10-01T13:51:09-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -152,14 +152,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/climate.html</loc>
-<lastmod>2020-10-01T13:46:17-00:01</lastmod>
+<lastmod>2020-10-01T13:51:09-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/solutions.html</loc>
-<lastmod>2020-10-01T13:46:17-00:01</lastmod>
+<lastmod>2020-10-01T13:51:09-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/tag/government.html</loc>
+<lastmod>2020-10-01T13:51:09-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/tag/renewable-energy.html</loc>
+<lastmod>2020-10-01T13:49:55-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/tag/strategy.html</loc>
+<lastmod>2020-10-01T13:49:55-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -188,20 +209,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/heating.html</loc>
 <lastmod>2020-10-01T13:46:17-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.climatesolutions.org.uk/tag/renewable-energy.html</loc>
-<lastmod>2020-10-01T13:33:57-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.climatesolutions.org.uk/tag/strategy.html</loc>
-<lastmod>2020-10-01T13:27:43-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -305,13 +312,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.climatesolutions.org.uk/tag/government.html</loc>
-<lastmod>2020-09-27T21:15:28-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.climatesolutions.org.uk/tag/hydrogen.html</loc>
 <lastmod>2020-10-01T13:33:57-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -320,7 +320,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/author/climate-solutions.html</loc>
-<lastmod>2020-10-01T13:46:17-00:01</lastmod>
+<lastmod>2020-10-01T13:51:09-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

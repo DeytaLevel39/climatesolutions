@@ -47,15 +47,22 @@ endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.climateassembly.uk/)
->> /Border [ 0 0 0 ] /Rect [ 124.9709 523.0611 166.9762 530.9361 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.gov.uk/government/news/end-of-coal-power-to-be-brought-forward-in-drive-towards-net-zero#:~:text=The%20deadline%20for%20the%20phase,a%20speech%20to%20launch%20COP26%20.&text=Last%20year%20more%20than%20half,came%20from%20low%2Dcarbon%20sources.)
+>> /Border [ 0 0 0 ] /Rect [ 117.9622 523.0611 284.2927 530.9361 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.climateassembly.uk/)
+>> /Border [ 0 0 0 ] /Rect [ 124.9709 513.1861 166.9762 521.0611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.b78d44c6d91de3a3373e644d5f383b72 4 0 R
+/FormXob.a08a104875b356707038e0f029038e23 4 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -63,25 +70,25 @@ endobj
 >> /Type /Page
 >>
 endobj
-10 0 obj
-<<
-/PageLabels 14 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog
->>
-endobj
 11 0 obj
 <<
-/Author () /CreationDate (D:20201001134634+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001134634+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (UK Parliament Initiatives) /Trapped /False
+/PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
 >>
 endobj
 12 0 obj
 <<
-/Count 1 /Kids [ 9 0 R ] /Type /Pages
+/Author () /CreationDate (D:20201001135113+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001135113+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (UK Parliament Initiatives) /Trapped /False
 >>
 endobj
 13 0 obj
 <<
-/Length 2838
+/Count 1 /Kids [ 10 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Length 3229
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -98,7 +105,7 @@ q
 q
 q
 222.75 0 0 127.5 0 2.03675 cm
-/FormXob.b78d44c6d91de3a3373e644d5f383b72 Do
+/FormXob.a08a104875b356707038e0f029038e23 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 127.7625 TL 222.75 0 Td /F1 5.25 Tf 6.3 TL  T* -222.75 0 Td ET
@@ -178,7 +185,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 510.7369 cm
+1 0 0 1 62.69291 518.6119 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+0 0 1 RG
+n 54.26925 5.121125 m 220.5998 5.121125 l S
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (2020 - UK declares ) Tj 0 0 1 rg (coal will no longer be used as an energy source by 1st October at latest) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 500.8619 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -194,23 +216,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 510.7369 cm
+1 0 0 1 62.69291 500.8619 cm
 Q
  
 endstream
 endobj
-14 0 obj
+15 0 obj
 <<
-/Nums [ 0 15 0 R ]
+/Nums [ 0 16 0 R ]
 >>
 endobj
-15 0 obj
+16 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 16
+0 17
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -220,23 +242,24 @@ xref
 0000016809 00000 n 
 0000017064 00000 n 
 0000017263 00000 n 
-0000017446 00000 n 
-0000017750 00000 n 
-0000017839 00000 n 
-0000018122 00000 n 
-0000018182 00000 n 
-0000021072 00000 n 
-0000021113 00000 n 
+0000017671 00000 n 
+0000017854 00000 n 
+0000018165 00000 n 
+0000018254 00000 n 
+0000018537 00000 n 
+0000018598 00000 n 
+0000021879 00000 n 
+0000021920 00000 n 
 trailer
 <<
 /ID 
-[<5c643e6670846fb8afe7f0f3f0c96df4><5c643e6670846fb8afe7f0f3f0c96df4>]
+[<ed40d75dfa3b8193c912e210981a6c79><ed40d75dfa3b8193c912e210981a6c79>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 11 0 R
-/Root 10 0 R
-/Size 16
+/Info 12 0 R
+/Root 11 0 R
+/Size 17
 >>
 startxref
-21147
+21954
 %%EOF
