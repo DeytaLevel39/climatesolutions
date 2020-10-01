@@ -25,9 +25,9 @@ s4IA0!"_al8O`[\!<E1.!+5d,s4[N@!!30%!W`<'!WiE)!WiE*"Tni/!s8`1"9Sf4"pYA<"pYA=#n%%F
 endobj
 5 0 obj
 <<
-/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.c19d3d0107babc2f4c79cadb1ec86153 4 0 R
+/FormXob.0905dd81dcf73db601835420ec40c8c8 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -37,76 +37,90 @@ endobj
 endobj
 6 0 obj
 <<
-/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.c40.org/case_studies/98-of-copenhagen-city-heating-supplied-by-waste-heat#:~:text=The%20Copenhagen%20district%20heating%20system%20is%20a%20heating%20supply%20system,reduces%20CO2%20emissions%20and%20pollutants.)
+>> /Border [ 0 0 0 ] /Rect [ 490.2659 759.5979 521.7869 767.4729 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Outlines 9 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://www.c40.org/case_studies/98-of-copenhagen-city-heating-supplied-by-waste-heat#:~:text=The%20Copenhagen%20district%20heating%20system%20is%20a%20heating%20supply%20system,reduces%20CO2%20emissions%20and%20pollutants.)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 751.7229 84.98691 759.5979 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20201001180002+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001180002+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Building Energy Usage) /Trapped /False
+/Annots [ 6 0 R 7 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 9 0 obj
 <<
-/Count 3 /First 10 0 R /Last 10 0 R /Type /Outlines
+/Outlines 11 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog
 >>
 endobj
 10 0 obj
 <<
-/Count -1 /Dest [ 5 0 R /Fit ] /First 11 0 R /Last 11 0 R /Parent 9 0 R /Title (Heating and cooling of buildings)
+/Author () /CreationDate (D:20201001180252+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001180252+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Building Energy Usage) /Trapped /False
 >>
 endobj
 11 0 obj
 <<
-/Count -6 /Dest [ 5 0 R /Fit ] /First 12 0 R /Last 17 0 R /Parent 10 0 R /Title (Heating and cooling of buildings)
+/Count 3 /First 12 0 R /Last 12 0 R /Type /Outlines
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 13 0 R /Parent 11 0 R /Title (Solar Panels)
+/Count -1 /Dest [ 5 0 R /Fit ] /First 13 0 R /Last 13 0 R /Parent 11 0 R /Title (Heating and cooling of buildings)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Battery Storage)
+/Count -6 /Dest [ 5 0 R /Fit ] /First 14 0 R /Last 19 0 R /Parent 12 0 R /Title (Heating and cooling of buildings)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Heat Pumps)
+/Dest [ 5 0 R /Fit ] /Next 15 0 R /Parent 13 0 R /Title (Solar Panels)
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Green Hydrogen)
+/Dest [ 5 0 R /Fit ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Battery Storage)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (External Wall insulation)
+/Dest [ 5 0 R /Fit ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Heat Pumps)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Parent 11 0 R /Prev 16 0 R /Title (District Heating Schemes)
+/Dest [ 5 0 R /Fit ] /Next 18 0 R /Parent 13 0 R /Prev 16 0 R /Title (Green Hydrogen)
 >>
 endobj
 18 0 obj
 <<
-/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+/Dest [ 5 0 R /Fit ] /Next 19 0 R /Parent 13 0 R /Prev 17 0 R /Title (External Wall insulation)
 >>
 endobj
 19 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Parent 13 0 R /Prev 18 0 R /Title (District Heating Schemes)
+>>
+endobj
+20 0 obj
+<<
+/Count 2 /Kids [ 5 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+21 0 obj
 <<
 /Length 10490
 >>
@@ -125,7 +139,7 @@ q
 q
 q
 225.75 0 0 161.25 0 2.03675 cm
-/FormXob.c19d3d0107babc2f4c79cadb1ec86153 Do
+/FormXob.0905dd81dcf73db601835420ec40c8c8 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 161.5125 TL 225.75 0 Td /F1 5.25 Tf 6.3 TL  T* -225.75 0 Td ET
@@ -522,9 +536,9 @@ Q
  
 endstream
 endobj
-20 0 obj
+22 0 obj
 <<
-/Length 690
+/Length 815
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -534,9 +548,13 @@ q
 1 0 0 1 1 -1 cm
 q
 .492188 w
+0 0 1 RG
+n 426.573 20.87112 m 458.094 20.87112 l S
 .492188 w
+0 0 1 RG
+n 0 12.99612 m 21.294 12.99612 l S
 .492188 w
-BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (District heating systems refers to a local council \(or private company\) generating heat centrally to power a local district of a town or city. Examples where this currently operates include Copenhagen,) Tj T* (Denmark where burning of municipal waste is used to keep most of the city warm. Clearly, some degree of pollution capture would be necessary to make this option environmentally acceptable, but) Tj T* (waste incinerators are already fairly common within city boundaries in the UK.) Tj T* ET
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (District heating systems refers to a local council \(or private company\) generating heat centrally to power a local district of a town or city. Examples where this currently operates include ) Tj 0 0 1 rg (Copenhagen,) Tj T* (Denmark) Tj 0 0 0 rg ( where burning of municipal waste is used to keep most of the city warm. Clearly, some degree of pollution capture would be necessary to make this option environmentally acceptable, but) Tj T* (waste incinerators are already fairly common within city boundaries in the UK.) Tj T* ET
 Q
 Q
 q
@@ -545,23 +563,23 @@ Q
  
 endstream
 endobj
-21 0 obj
+23 0 obj
 <<
-/Nums [ 0 22 0 R 1 23 0 R ]
+/Nums [ 0 24 0 R 1 25 0 R ]
 >>
 endobj
-22 0 obj
+24 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-23 0 obj
+25 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 24
+0 26
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -569,33 +587,35 @@ xref
 0000000333 00000 n 
 0000051039 00000 n 
 0000051307 00000 n 
-0000051512 00000 n 
-0000051616 00000 n 
-0000051894 00000 n 
-0000051967 00000 n 
-0000052103 00000 n 
-0000052240 00000 n 
-0000052333 00000 n 
-0000052442 00000 n 
-0000052546 00000 n 
-0000052654 00000 n 
-0000052772 00000 n 
-0000052877 00000 n 
-0000052943 00000 n 
-0000063486 00000 n 
-0000064227 00000 n 
-0000064277 00000 n 
-0000064311 00000 n 
+0000051682 00000 n 
+0000052057 00000 n 
+0000052286 00000 n 
+0000052391 00000 n 
+0000052670 00000 n 
+0000052744 00000 n 
+0000052881 00000 n 
+0000053018 00000 n 
+0000053111 00000 n 
+0000053220 00000 n 
+0000053324 00000 n 
+0000053432 00000 n 
+0000053550 00000 n 
+0000053655 00000 n 
+0000053721 00000 n 
+0000064264 00000 n 
+0000065130 00000 n 
+0000065180 00000 n 
+0000065214 00000 n 
 trailer
 <<
 /ID 
-[<2b792f7ec65728b9e836bf451aa809b8><2b792f7ec65728b9e836bf451aa809b8>]
+[<d9e9c20b3eb6b84eba7929e5cb3d17a2><d9e9c20b3eb6b84eba7929e5cb3d17a2>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 8 0 R
-/Root 7 0 R
-/Size 24
+/Info 10 0 R
+/Root 9 0 R
+/Size 26
 >>
 startxref
-64345
+65248
 %%EOF
