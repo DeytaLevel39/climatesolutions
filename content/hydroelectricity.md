@@ -1,4 +1,4 @@
-itle: Hydroelectricity
+Title: Hydroelectricity
 Category: Energy Storage
 Tags: climate, solutions, hydro, hydroelectricity
 Slug: hydroelectricity
