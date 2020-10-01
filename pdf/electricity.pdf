@@ -27,7 +27,7 @@ endobj
 <<
 /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.8fe6ac8b153ebde97c57367c8c656864 4 0 R
+/FormXob.72a805ec152eb7307f83bd0fe7f5e0f3 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -68,7 +68,7 @@ endobj
 <<
 /Annots [ 7 0 R 8 0 R 9 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.a916aeda5f73555663c563418ec3ad33 6 0 R
+/FormXob.906cb2d5421c95a798e78cecb3ab536d 6 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -83,7 +83,7 @@ endobj
 endobj
 12 0 obj
 <<
-/Author () /CreationDate (D:20201001183217+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001183217+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201001183254+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001183254+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Electrical Supply) /Trapped /False
 >>
 endobj
@@ -111,7 +111,7 @@ q
 q
 q
 467.8898 0 0 311.1467 0 2.03675 cm
-/FormXob.8fe6ac8b153ebde97c57367c8c656864 Do
+/FormXob.72a805ec152eb7307f83bd0fe7f5e0f3 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 311.4092 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -268,7 +268,7 @@ endstream
 endobj
 15 0 obj
 <<
-/Length 1027
+/Length 1055
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -279,7 +279,7 @@ q
 q
 q
 440.25 0 0 207 0 2.03675 cm
-/FormXob.a916aeda5f73555663c563418ec3ad33 Do
+/FormXob.906cb2d5421c95a798e78cecb3ab536d Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 207.2625 TL 440.25 0 Td /F1 5.25 Tf 6.3 TL  T* -440.25 0 Td ET
@@ -289,18 +289,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 532.9869 cm
+1 0 0 1 62.69291 525.1119 cm
 q
 1 0 0 1 1 -1 cm
 q
 .492188 w
 0 0 1 RG
-n 139.2038 12.99612 m 242.2088 12.99612 l S
-n 436.3748 12.99612 m 450.3765 12.99612 l S
+n 139.2038 20.87112 m 242.2088 20.87112 l S
+n 436.3748 20.87112 m 450.3765 20.87112 l S
 .492188 w
 0 0 1 RG
-n 0 5.121125 m 30.63375 5.121125 l S
-BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In the UK, onshore Wind has been the standout solution for ) Tj 0 0 1 rg (electrical power supply but on any given day) Tj 0 0 0 rg (, the mixture of energy sources can vary. Improvements are underway to provide a ') Tj 0 0 1 rg (Smart) Tj T* (National Grid) Tj 0 0 0 rg (' to allow microgenerators e.g. domestic solar to boost renewable use, whereas this extra power often goes to waste currently due to the grid being less able to cope with spikes in supply.) Tj T* ET
+n 0 12.99612 m 30.63375 12.99612 l S
+.492188 w
+BT 1 0 0 1 0 21.8555 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (In the UK, onshore Wind has been the standout solution for ) Tj 0 0 1 rg (electrical power supply but on any given day) Tj 0 0 0 rg (, the mixture of energy sources can vary. Improvements are underway to provide a ') Tj 0 0 1 rg (Smart) Tj T* (National Grid) Tj 0 0 0 rg (' to allow microgenerators e.g. domestic solar to boost renewable energy supply, whereas this extra power often goes to waste currently due to the grid being less able to cope with spikes) Tj T* (in supply.) Tj T* ET
 Q
 Q
 q
@@ -342,13 +343,13 @@ xref
 0000128420 00000 n 
 0000128487 00000 n 
 0000132103 00000 n 
-0000133182 00000 n 
-0000133232 00000 n 
-0000133266 00000 n 
+0000133210 00000 n 
+0000133260 00000 n 
+0000133294 00000 n 
 trailer
 <<
 /ID 
-[<416ea4fce58d137d3bbc46f2fbb20962><416ea4fce58d137d3bbc46f2fbb20962>]
+[<ec9810d2c6e7715ecb614186538ad031><ec9810d2c6e7715ecb614186538ad031>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 12 0 R
@@ -356,5 +357,5 @@ trailer
 /Size 19
 >>
 startxref
-133300
+133328
 %%EOF
