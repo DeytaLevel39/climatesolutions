@@ -20,19 +20,19 @@ However, storage heaters have evolved and have become much more efficient with i
 if you invest in solar panels, this becomes a very compelling solution. Solar panels peak during the midday/early afternoon hours and are still generating some electricity in mid-afternoon even in Winter.
 This means that there is a much shorter period of time between energy supply ending and demand being needed, this allows Storage heaters to deliver
 heat at a level that is more than comfortable for homes right through the winter evenings.
-For Winter mornings or on winter days with little sunlight, storage heaters can use low priced tariffs to re-supply heat.
+For Winter mornings or on winter days with little sunlight, storage heaters can use low priced tariffs e.g. [Octopus Energy Flexible Tarriff](https://octopus.energy/help-and-faqs/categories/tariffs/flexible-tariffs/) which can supply electricity at rates much lower than the standard tariff outside the peak demand times - typically 4 to 7pm in the UK.
 This cost can be offset by being paid to supply solar energy back to the grid during the day, when most people will be out at work.
 
 [Solar panels cost for a typical home costs around £6000 to £7000](https://www.solarguide.co.uk/how-much-does-it-cost-to-install-solar-panels#/) for supply & installation in the UK.
 There are also lease options.
 
 Smart storage heaters are priced from £300 but you don't have to replace your entire domestic heating solution in 1 go.
-You could focus on ground level rooms where you will get the most benefit initially or upper level rooms if you're initially concerned as to whether
-it can truly deliver the same heating level as natural gas heating. 
+You could focus on ground level rooms where you will get the most benefit initially or upper level rooms if you're initially concerned as to whether it can truly deliver the same heating level as natural gas heating. 
 
-As well as domestic heating, Solar panels can also provide electrical supply for domestic appliances during the day.
+As well as domestic heating, Solar panels can also provide electrical supply for domestic appliances during the day.0
 With reductions in both energy & electrical costs, this solution could payback within a 10 to 15 year time period.
 
 ## Industry & Government Advice
 
-* Target cheaper overnight electricity tariffs to encourage adoption of this technology
+* Target cheaper electricity tariffs during off demand times to encourage adoption of technology that can make use of it
+* Bulk buy green tech for resale to residents

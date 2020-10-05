@@ -20,3 +20,5 @@ This process isn't currently used due to the costs of electrolysis outweighing t
 However, one of the issues of solar is that during the middle of the day, it produces more energy than the national grid can accommodate. 
 This excess energy could be used to produced Hydrogen rather than being wasted.  This process can be considered as another example of energy storage. 
 Hydrogen can be used not only to heat houses but also to power <a href="transport.html#ships_and_planes">ships and planes</a>
+Other issues to overcome with 100% green hydrogen, however, include risk of explosion and the effect on metal pipework making it brittle. 
+There will be a need to find a stabiliser that overcomes these problems.
