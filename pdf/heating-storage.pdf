@@ -33,15 +33,22 @@ endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.solarguide.co.uk/how-much-does-it-cost-to-install-solar-panels#/)
->> /Border [ 0 0 0 ] /Rect [ 63.69291 296.5199 216.3157 304.3949 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://octopus.energy/help-and-faqs/categories/tariffs/flexible-tariffs/)
+>> /Border [ 0 0 0 ] /Rect [ 400.4122 319.5199 472.7677 327.3949 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Annots [ 5 0 R 6 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.solarguide.co.uk/how-much-does-it-cost-to-install-solar-panels#/)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 288.6449 216.3157 296.5199 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.ddbd756141d745bc706cf469db5fe138 4 0 R
+/FormXob.20cebe2d3dc41534c606adf8ce5c3bfa 4 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -49,40 +56,40 @@ endobj
 >> /Type /Page
 >>
 endobj
-8 0 obj
-<<
-/Outlines 10 0 R /PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
->>
-endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20201001193150+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001193150+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Heating storage) /Trapped /False
+/Outlines 11 0 R /PageLabels 16 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog
 >>
 endobj
 10 0 obj
 <<
-/Count 2 /First 11 0 R /Last 11 0 R /Type /Outlines
+/Author () /CreationDate (D:20201005131140+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201005131140+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Heating storage) /Trapped /False
 >>
 endobj
 11 0 obj
 <<
-/Count -1 /Dest [ 7 0 R /Fit ] /First 12 0 R /Last 12 0 R /Parent 10 0 R /Title (Industry & Government Advice)
+/Count 2 /First 12 0 R /Last 12 0 R /Type /Outlines
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 7 0 R /Fit ] /Parent 11 0 R /Title (Industry & Government Advice)
+/Count -1 /Dest [ 8 0 R /Fit ] /First 13 0 R /Last 13 0 R /Parent 11 0 R /Title (Industry & Government Advice)
 >>
 endobj
 13 0 obj
 <<
-/Count 1 /Kids [ 7 0 R ] /Type /Pages
+/Dest [ 8 0 R /Fit ] /Parent 12 0 R /Title (Industry & Government Advice)
 >>
 endobj
 14 0 obj
 <<
-/Length 4785
+/Count 1 /Kids [ 8 0 R ] /Type /Pages
+>>
+endobj
+15 0 obj
+<<
+/Length 5349
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -99,7 +106,7 @@ q
 q
 q
 467.8898 0 0 312.0412 0 2.03675 cm
-/FormXob.ddbd756141d745bc706cf469db5fe138 Do
+/FormXob.20cebe2d3dc41534c606adf8ce5c3bfa Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 312.3037 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -165,7 +172,7 @@ q
 1 0 0 1 62.69291 353.8207 cm
 Q
 q
-1 0 0 1 62.69291 307.1957 cm
+1 0 0 1 62.69291 299.3207 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -173,15 +180,18 @@ q
 .492188 w
 .492188 w
 .492188 w
+0 0 1 RG
+n 336.7192 20.87112 m 409.0747 20.87112 l S
 .492188 w
-BT 1 0 0 1 0 37.6055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (However, storage heaters have evolved and have become much more efficient with improved heat insulation and smart technology that ensures that power is only supplied when prices are low if you) Tj T* (invest in solar panels, this becomes a very compelling solution. Solar panels peak during the midday/early afternoon hours and are still generating some electricity in mid-afternoon even in Winter. This) Tj T* (means that there is a much shorter period of time between energy supply ending and demand being needed, this allows Storage heaters to deliver heat at a level that is more than comfortable for) Tj T* (homes right through the winter evenings. For Winter mornings or on winter days with little sunlight, storage heaters can use low priced tariffs to re-supply heat. This cost can be offset by being paid to) Tj T* (supply solar energy back to the grid during the day, when most people will be out at work.) Tj T* ET
+.492188 w
+BT 1 0 0 1 0 45.4805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (However, storage heaters have evolved and have become much more efficient with improved heat insulation and smart technology that ensures that power is only supplied when prices are low if you) Tj T* (invest in solar panels, this becomes a very compelling solution. Solar panels peak during the midday/early afternoon hours and are still generating some electricity in mid-afternoon even in Winter. This) Tj T* (means that there is a much shorter period of time between energy supply ending and demand being needed, this allows Storage heaters to deliver heat at a level that is more than comfortable for) Tj T* (homes right through the winter evenings. For Winter mornings or on winter days with little sunlight, storage heaters can use low priced tariffs e.g. ) Tj 0 0 1 rg (Octopus Energy Flexible Tarriff) Tj 0 0 0 rg ( which can supply) Tj T* (electricity at rates much lower than the standard tariff outside the peak demand times - typically 4 to 7pm in the UK. This cost can be offset by being paid to supply solar energy back to the grid during) Tj T* (the day, when most people will be out at work.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 292.0707 cm
+1 0 0 1 62.69291 284.1957 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -195,7 +205,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 269.0707 cm
+1 0 0 1 62.69291 261.1957 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -208,20 +218,20 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 246.0707 cm
+1 0 0 1 62.69291 238.1957 cm
 q
 1 0 0 1 1 -1 cm
 q
 .492188 w
 .492188 w
-BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (As well as domestic heating, Solar panels can also provide electrical supply for domestic appliances during the day. With reductions in both energy & electrical costs, this solution could payback within a) Tj T* (10 to 15 year time period.) Tj T* ET
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (As well as domestic heating, Solar panels can also provide electrical supply for domestic appliances during the day.0 With reductions in both energy & electrical costs, this solution could payback within) Tj T* (a 10 to 15 year time period.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 227.9138 cm
+1 0 0 1 62.69291 220.0388 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -233,36 +243,49 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 211.5761 cm
+1 0 0 1 62.69291 203.7011 cm
 q
 1 0 0 1 1 -1 cm
 q
 BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Target cheaper overnight electricity tariffs to encourage adoption of this technology) Tj T* ET
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Target cheaper electricity tariffs during off demand times to encourage adoption of technology that can make use of it) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 211.5761 cm
+1 0 0 1 62.69291 193.8261 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Bulk buy green tech for resale to residents) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 193.8261 cm
 Q
  
 endstream
 endobj
-15 0 obj
+16 0 obj
 <<
-/Nums [ 0 16 0 R ]
+/Nums [ 0 17 0 R ]
 >>
 endobj
-16 0 obj
+17 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 17
+0 18
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -270,26 +293,27 @@ xref
 0000000333 00000 n 
 0000083278 00000 n 
 0000083487 00000 n 
-0000083715 00000 n 
-0000084007 00000 n 
-0000084112 00000 n 
-0000084384 00000 n 
-0000084458 00000 n 
-0000084591 00000 n 
-0000084687 00000 n 
-0000084747 00000 n 
-0000089584 00000 n 
-0000089625 00000 n 
+0000083712 00000 n 
+0000083940 00000 n 
+0000084238 00000 n 
+0000084343 00000 n 
+0000084616 00000 n 
+0000084690 00000 n 
+0000084823 00000 n 
+0000084919 00000 n 
+0000084979 00000 n 
+0000090380 00000 n 
+0000090421 00000 n 
 trailer
 <<
 /ID 
-[<b23a277c050785c8556ab62a6e7ddaca><b23a277c050785c8556ab62a6e7ddaca>]
+[<0ddacf56f461fc5affd64da58ad0a825><0ddacf56f461fc5affd64da58ad0a825>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 9 0 R
-/Root 8 0 R
-/Size 17
+/Info 10 0 R
+/Root 9 0 R
+/Size 18
 >>
 startxref
-89659
+90455
 %%EOF

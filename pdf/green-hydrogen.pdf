@@ -41,7 +41,7 @@ endobj
 <<
 /Annots [ 5 0 R 6 0 R ] /Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 10 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.f3fb0fd1285775424ad445f70290579c 4 0 R
+/FormXob.fa9b03024d90b67882fbdae1aef3d14f 4 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -56,7 +56,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20201001193146+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201001193146+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201005131141+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201005131141+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Green Hydrogen) /Trapped /False
 >>
 endobj
@@ -67,7 +67,7 @@ endobj
 endobj
 11 0 obj
 <<
-/Length 3114
+/Length 3358
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -84,7 +84,7 @@ q
 q
 q
 467.8898 0 0 307.9665 0 2.03675 cm
-/FormXob.f3fb0fd1285775424ad445f70290579c Do
+/FormXob.fa9b03024d90b67882fbdae1aef3d14f Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 308.229 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -153,7 +153,7 @@ q
 1 0 0 1 62.69291 363.1454 cm
 Q
 q
-1 0 0 1 62.69291 324.3954 cm
+1 0 0 1 62.69291 316.5204 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -162,8 +162,9 @@ q
 .492188 w
 .492188 w
 0 0 1 RG
-n 97.18275 5.121125 m 136.5788 5.121125 l S
-BT 1 0 0 1 0 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hydrogen is primarily produced today from the byproduct of producing natural gas for domestic supply. However, another way of creating Hydrogen is to split water by electrolysis. This process isn't) Tj T* (currently used due to the costs of electrolysis outweighing the energy supplied. However, one of the issues of solar is that during the middle of the day, it produces more energy than the national grid) Tj T* (can accommodate. This excess energy could be used to produced Hydrogen rather than being wasted. This process can be considered as another example of energy storage. Hydrogen can be used) Tj T* (not only to heat houses but also to power ) Tj 0 0 1 rg (ships and planes) Tj T* ET
+n 97.18275 12.99612 m 136.5788 12.99612 l S
+.492188 w
+BT 1 0 0 1 0 37.6055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Hydrogen is primarily produced today from the byproduct of producing natural gas for domestic supply. However, another way of creating Hydrogen is to split water by electrolysis. This process isn't) Tj T* (currently used due to the costs of electrolysis outweighing the energy supplied. However, one of the issues of solar is that during the middle of the day, it produces more energy than the national grid) Tj T* (can accommodate. This excess energy could be used to produced Hydrogen rather than being wasted. This process can be considered as another example of energy storage. Hydrogen can be used) Tj T* (not only to heat houses but also to power ) Tj 0 0 1 rg (ships and planes) Tj 0 0 0 rg ( Other issues to overcome with 100% green hydrogen, however, include risk of explosion and the effect on metal pipework making it brittle.) Tj T* (There will be a need to find a stabiliser that overcomes these problems.) Tj T* ET
 Q
 Q
 q
@@ -196,12 +197,12 @@ xref
 0000108615 00000 n 
 0000108886 00000 n 
 0000108946 00000 n 
-0000112112 00000 n 
-0000112153 00000 n 
+0000112356 00000 n 
+0000112397 00000 n 
 trailer
 <<
 /ID 
-[<92e80991e540cd0242ac61ef035d2fbb><92e80991e540cd0242ac61ef035d2fbb>]
+[<ed19533adbdf6e01e76b0c44fa1f82f0><ed19533adbdf6e01e76b0c44fa1f82f0>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 9 0 R
@@ -209,5 +210,5 @@ trailer
 /Size 14
 >>
 startxref
-112187
+112431
 %%EOF
