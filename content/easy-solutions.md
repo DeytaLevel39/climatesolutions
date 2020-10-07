@@ -9,8 +9,9 @@ Summary: Covers cost effective solutions that anybody can do
 ![Simple Solutions Cover image](https://ichef.bbci.co.uk/news/624/cpsprodpb/1305E/production/_112381977_carbon_footprint_640-nc.png)
 Simple solutions that anybody can do include:-
 
-## Food
+## Food & Drink
 * Reduce the amount of meat that you eat, especially Beef - Cows produce a lot of methane from their breath as well as their behinds
+* If you're going out on a trip, remember to fill an existing bottle with water or juice, rather than buying a plastic water bottle
 
 ## Transport
 * Consider going to foreign holidays by train rather than aeroplane. Trains are increasingly electrified so can be powered by renewable energy, whereas aeroplanes still need to wait for fossil fuel alternatives such as green hydrogen.
