@@ -17,7 +17,7 @@ Simple solutions that anybody can do include:-
 
 ## Transport
 * Consider going to foreign holidays by train rather than aeroplane. Trains are increasingly electrified so can be powered by renewable energy, whereas aeroplanes still need to wait for fossil fuel alternatives such as green hydrogen.
-* Walk, Ride a bicycle or rent an eScooter for local to medium distance journeys - good for body & mind
+* [Walk, Ride a bicycle or rent an eScooter](https://www.gov.uk/government/publications/active-travel-a-briefing-for-local-authorities) for local to medium distance journeys - good for body & mind
 * Rent a car on a daily basis if you're an infrequent driver - unused cars congest roads. Congested roads increase CO2 & air pollution
 * Don't use the car for short trips
 * Make more frequent trips to local supermarkets or pick up food on way back from work, rather than do a special trip for a weekly shop
