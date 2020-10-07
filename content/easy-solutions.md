@@ -33,6 +33,8 @@ Simple solutions that anybody can do include:-
 * Go outside for exercise - the feeling of warmth is relative, so when you come in from outside, the house will feel much warmer
 * Get a programmable thermostat - these allow you to adjust temperature for different hours of the day so allows more control than standard thermostats
 * Turn down radiator valves in upper floor rooms - Heat rises, so if it's pleasant downstairs, it will be warm upstairs
+* Buy thick curtains for your windows. Close curtains as soon as sun dips (or rises in summer) and open them when it's sunny.
+* Make sure you close doors
 
 ## Energy 
 * Make sure you've moved to a green electricity tariff
