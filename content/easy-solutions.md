@@ -1,6 +1,6 @@
-Title: Easy Solutions
+Title: Easy Climate Solutions
 Category: Overview
-Tags: climate, solutions, 
+Tags: climate, solutions, food, drink, transport, shopping, insulation, heating
 Slug: easy-solutions
 Authors: Climate Solutions
 Cover: https://static01.nyt.com/images/2019/05/07/smarter-living/07carbonfootprint-slide-SUBX/carbonfootprint-slide-SUBX-jumbo.jpg
@@ -31,3 +31,6 @@ Simple solutions that anybody can do include:-
 * Go outside for exercise - the feeling of warmth is relative, so when you come in from outside, the house will feel much warmer
 * Get a programmable thermostat - these allow you to adjust temperature for different hours of the day so allows more control than standard thermostats
 * Turn down radiator valves in upper floor rooms - Heat rises, so if it's pleasant downstairs, it will be warm upstairs
+
+## Energy 
+* Make sure you've moved to a green electricity tariff
