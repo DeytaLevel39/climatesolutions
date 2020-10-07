@@ -23,7 +23,7 @@ Simple solutions that anybody can do include:-
 * Make more frequent trips to local supermarkets or pick up food on way back from work, rather than do a special trip for a weekly shop
 
 ## Shopping
-* Reduce your use of plastic bags, which are made from oil
+* Reduce your use of [plastic bags, which are made from oil](https://www.plasticseurope.org/en/about-plastics/what-are-plastics/how-plastics-are-made)
 * Buy second hand goods where appropriate e.g. books or get items for free at [freecycle](https://www.freecycle.org/)
 * Don't buy ["fast fashion"](https://www.thegoodtrade.com/features/what-is-fast-fashion#:~:text=Good%20on%20You,seasonal%20basis%20is%20being%20challenged.)
 * Remember to consider energy efficiency when buying tvs, laptops & white goods
