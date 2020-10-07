@@ -3,10 +3,10 @@ Category: Overview
 Tags: climate, solutions, 
 Slug: easy-solutions
 Authors: Climate Solutions
-Cover: https://ichef.bbci.co.uk/news/624/cpsprodpb/1305E/production/_112381977_carbon_footprint_640-nc.png
+Cover: https://static01.nyt.com/images/2019/05/07/smarter-living/07carbonfootprint-slide-SUBX/carbonfootprint-slide-SUBX-jumbo.jpg
 Summary: Covers cost effective solutions that anybody can do
 
-![Simple Solutions Cover image](https://ichef.bbci.co.uk/news/624/cpsprodpb/1305E/production/_112381977_carbon_footprint_640-nc.png)
+![Simple Solutions Cover image](https://static01.nyt.com/images/2019/05/07/smarter-living/07carbonfootprint-slide-SUBX/carbonfootprint-slide-SUBX-jumbo.jpg)
 Simple solutions that anybody can do include:-
 
 ## Food & Drink
