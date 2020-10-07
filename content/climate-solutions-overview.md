@@ -41,3 +41,5 @@ In order to achieve zero carbon emissions, the following areas will need to be a
 <li><a href="carbon-credits.html">Carbon Credits</a></li>
 
 Click through to see the answers to the questions for each area of UK life
+
+And start off by doing the really [simple solutions](easy_solutions.html) that anybody can achieve.

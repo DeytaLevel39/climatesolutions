@@ -6,7 +6,7 @@ Authors: Climate Solutions
 Cover: https://ichef.bbci.co.uk/news/624/cpsprodpb/1305E/production/_112381977_carbon_footprint_640-nc.png
 Summary: Covers cost effective solutions that anybody can do
 
-[Simple Solutions Cover image](https://ichef.bbci.co.uk/news/624/cpsprodpb/1305E/production/_112381977_carbon_footprint_640-nc.png)
+![Simple Solutions Cover image](https://ichef.bbci.co.uk/news/624/cpsprodpb/1305E/production/_112381977_carbon_footprint_640-nc.png)
 Simple solutions that anybody can do include:-
 
 ## Food
