@@ -25,9 +25,9 @@ s4IA0!"_al8O`[\!<E3P!A"3Ns4[N@!!NH-"9\f1"9\i2"U,)8$j[(C#6tbI$OI4R%h]Ke%hTBe(*",(
 endobj
 5 0 obj
 <<
-/Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.f4a4b9a59fa37d1cc874657ec2ffbd57 4 0 R
+/FormXob.924a1bbb80fca28c159b8fc5c07d4de5 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -37,13 +37,13 @@ endobj
 endobj
 6 0 obj
 <<
-/Outlines 8 0 R /PageLabels 16 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog
+/Outlines 8 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20201007162916+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201007162916+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Easy Solutions) /Trapped /False
+/Author () /CreationDate (D:20201007163031+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201007163031+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Easy Climate Solutions) /Trapped /False
 >>
 endobj
 8 0 obj
@@ -53,7 +53,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Count -4 /Dest [ 5 0 R /Fit ] /First 10 0 R /Last 13 0 R /Parent 8 0 R /Title (Food & Drink)
+/Count -5 /Dest [ 5 0 R /Fit ] /First 10 0 R /Last 14 0 R /Parent 8 0 R /Title (Food & Drink)
 >>
 endobj
 10 0 obj
@@ -73,24 +73,29 @@ endobj
 endobj
 13 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Parent 9 0 R /Prev 12 0 R /Title (Insulation & Domestic Heating)
+/Dest [ 5 0 R /Fit ] /Next 14 0 R /Parent 9 0 R /Prev 12 0 R /Title (Insulation & Domestic Heating)
 >>
 endobj
 14 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/Dest [ 5 0 R /Fit ] /Parent 9 0 R /Prev 13 0 R /Title (Energy)
 >>
 endobj
 15 0 obj
 <<
-/Length 6695
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
+endobj
+16 0 obj
+<<
+/Length 7169
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 741.0236 cm
 q
-BT 1 0 0 1 0 4 Tm 163.2549 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Easy Solutions) Tj T* -163.2549 0 Td ET
+BT 1 0 0 1 0 4 Tm 124.3549 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Easy Climate Solutions) Tj T* -124.3549 0 Td ET
 Q
 Q
 q
@@ -100,7 +105,7 @@ q
 q
 q
 467.8898 0 0 312.0788 0 9.91175 cm
-/FormXob.f4a4b9a59fa37d1cc874657ec2ffbd57 Do
+/FormXob.924a1bbb80fca28c159b8fc5c07d4de5 Do
 Q
 .492188 w
 .492188 w
@@ -367,21 +372,49 @@ Q
 q
 1 0 0 1 62.69291 146.6796 cm
 Q
+q
+1 0 0 1 62.69291 128.5227 cm
+q
+1 0 0 1 1 -1 cm
+q
+.605883 w
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Energy) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 112.1849 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Make sure you've moved to a green electricity tariff) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 112.1849 cm
+Q
  
 endstream
 endobj
-16 0 obj
+17 0 obj
 <<
-/Nums [ 0 17 0 R ]
+/Nums [ 0 18 0 R ]
 >>
 endobj
-17 0 obj
+18 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 18
+0 19
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -390,26 +423,27 @@ xref
 0000211377 00000 n 
 0000211645 00000 n 
 0000211749 00000 n 
-0000212020 00000 n 
-0000212091 00000 n 
-0000212206 00000 n 
-0000212298 00000 n 
-0000212400 00000 n 
-0000212501 00000 n 
-0000212610 00000 n 
-0000212670 00000 n 
-0000219417 00000 n 
-0000219458 00000 n 
+0000212028 00000 n 
+0000212099 00000 n 
+0000212214 00000 n 
+0000212306 00000 n 
+0000212408 00000 n 
+0000212509 00000 n 
+0000212631 00000 n 
+0000212717 00000 n 
+0000212777 00000 n 
+0000219998 00000 n 
+0000220039 00000 n 
 trailer
 <<
 /ID 
-[<64c4c1053db9b066ed82d15faf98288f><64c4c1053db9b066ed82d15faf98288f>]
+[<ad44b1a6c7790dd995414bda2aee0905><ad44b1a6c7790dd995414bda2aee0905>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 7 0 R
 /Root 6 0 R
-/Size 18
+/Size 19
 >>
 startxref
-219492
+220073
 %%EOF
