@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da10ba98-1cee-4f55-8403-ce24a2b0b658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/green-hydrogen.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/green-hydrogen.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/agriculture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/author/climate-solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/author/climate-solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/battery-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/battery-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/building-energy-usage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/building-energy-usage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/carbon-elimination.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/carbon-elimination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/agriculture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/buildings.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/buildings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/energy-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/energy-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/parliament.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/parliament.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/category/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/category/transport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/climate-solutions-overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/climate-solutions-overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/energy-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/energy-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/government-initiatives.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/government-initiatives.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/green-hydrogen.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/green-hydrogen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/heating-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/heating-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/hot-water-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/hot-water-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/hydroelectricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/hydroelectricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/agriculture.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/agriculture.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/battery-storage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/building-energy-usage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/carbon-elimination.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/carbon-elimination.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/climate-solutions-overview.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/electricity.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/electricity.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/energy-storage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/energy-storage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/government-initiatives.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/government-initiatives.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/green-hydrogen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/green-hydrogen.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/heating-storage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/heating-storage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/hot-water-storage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/hot-water-storage.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/hydroelectricity.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/hydroelectricity.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf/transport.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf/transport.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/agriculture.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/agriculture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/air-conditioning.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/air-conditioning.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/batteries.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/batteries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/battery.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/battery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/buildings.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/buildings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/climate.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/climate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/cooling.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/cooling.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/electric-vehicles.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/electric-vehicles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/electricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/electricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/energy-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/energy-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/government.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/government.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/heat-pumps.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/heat-pumps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/heating.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/heating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/hot-water-storage.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/hot-water-storage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/hydro.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/hydro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/hydroelectricity.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/hydroelectricity.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/hydrogen.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/hydrogen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/insulating.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/insulating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/power.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/power.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/renewable-energy.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/renewable-energy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/solar.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/strategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/strategy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tag/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tag/transport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/transport.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/transport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/easy_solutions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,17 +65,17 @@
       <screen x="3840" y="0" width="1920" height="1080" />
     </state>
     <state x="4562" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/3840.0.1920.1080@3840.0.1920.1080" timestamp="1601396329493" />
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1601978102606">
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1602082786642">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1601978102606" />
+    <state x="467" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1602082786642" />
     <state x="462" y="164" width="613" height="536" key="find.popup" timestamp="1601222697813">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="462" y="164" width="613" height="536" key="find.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1601222697813" />
-    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1601499144935">
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1602083096052">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1601499144935" />
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/3840.0.1920.1080@0.0.1536.864" timestamp="1602083096052" />
   </component>
 </project>
