@@ -41,4 +41,4 @@ In order to achieve zero carbon emissions, the following areas will need to be a
 
 <p>Click through to see the answers to the questions for each area of UK life
 
-<p>And start off by doing the really [simple solutions](easy-solutions.html) that anybody can achieve.
+<p>And start off by doing the really <a href="easy-solutions.html">simple solutions</a> that anybody can achieve.
