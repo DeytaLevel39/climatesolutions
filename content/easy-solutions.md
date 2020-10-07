@@ -42,3 +42,4 @@ Simple solutions that anybody can do include:-
 ## Energy 
 * Make sure you've moved to a [green electricity tariff](https://www.moneysavingexpert.com/utilities/cheap-green-energy/)
 * Buy [LED bulbs](https://www.ledbulbs.co.uk/) when your halogen or incandescent bulbs expire
+* Contact an [assessor for an energy audit](https://gdorb.beis.gov.uk/find-a-green-deal-supplier?DECC=true) - check the cost in advance, however. This will help identify which part of the house is losing the most heat
