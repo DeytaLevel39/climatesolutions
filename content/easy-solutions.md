@@ -22,6 +22,8 @@ Simple solutions that anybody can do include:-
 
 ## Shopping
 * Reduce your use of plastic bags, which are made from oil
+* Buy second hand goods where appropriate e.g. books 
+* Don't buy "fast fashion"
 
 ## Insulation & Domestic Heating
 * Add draught excluders around all ground floor doors - this is the most cost effective way to reduce heat loss
