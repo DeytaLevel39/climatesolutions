@@ -23,7 +23,7 @@ Simple solutions that anybody can do include:-
 
 ## Shopping
 * Reduce your use of plastic bags, which are made from oil
-* Buy second hand goods where appropriate e.g. books 
+* Buy second hand goods where appropriate e.g. books or get items for free at [freecycle](https://www.freecycle.org/)
 * Don't buy "fast fashion"
 * Remember to consider energy efficiency when buying tvs, laptops & white goods
 
