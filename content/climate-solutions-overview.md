@@ -4,7 +4,6 @@ Tags: climate, solutions
 Slug: climate-solutions-overview
 Authors: Climate Solutions
 Cover: https://climatesolutions.org.uk/images/climate-solutions-banner.png
-
 Summary: Covers the areas where climate solutions are required and explains some of the current challenges that will need to be addressed
 
 <img src="https://climatesolutions.org.uk/images/climate-solutions-banner.png"/>
