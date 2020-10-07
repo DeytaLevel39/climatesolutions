@@ -29,7 +29,7 @@ Simple solutions that anybody can do include:-
 
 ## Insulation & Domestic Heating
 * Add draught excluders around all ground floor doors - this is the most cost effective way to reduce heat loss
-* Add radiator insulator foil behind radiators located on external walls - most heat is lost from the rear of a radiator on an external wall. The foil will ensure that more heated air is convected up rather than conducted through the wall
+* Add [radiator reflector foil](https://www.toolstation.com/ybs-radiator-reflector-foam/p27189) behind radiators located on external walls - most heat is lost from the rear of a radiator on an external wall. The foil will ensure that more heated air is convected up rather than conducted through the wall
 * Wear vests & jumpers in Winter - it's much better to heat you, than heat your living space.
 * Take a bath or shower - this will heat your core and keep you warm for a couple of hours after you've come out
 * Go outside for exercise - the feeling of warmth is relative, so when you come in from outside, the house will feel much warmer
