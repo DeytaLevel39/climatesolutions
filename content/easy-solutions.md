@@ -10,7 +10,7 @@ Summary: Covers cost effective solutions that anybody can do
 Simple solutions that anybody can do include:-
 
 ## Food & Drink
-* Reduce the amount of meat that you eat, especially Beef - Cows produce a lot of methane from their breath as well as their behinds
+* Reduce the amount of meat that you eat, especially Beef - [Cows produce a lot of methane from their breath as well as their behinds](https://phys.org/news/2019-07-potential-methane-cows.html)
 * If you're going out on a trip, remember to fill an existing bottle with water or juice, rather than buying a plastic water bottle - [plastic is made from oil](https://www.plasticseurope.org/en/about-plastics/what-are-plastics/how-plastics-are-made))
 * Eat less junk food - which is more processed (and hence energy intensive) and will make you unhealthy (which will require more to bring you back in to shape)
 * Learn to cook simple recipes at [BBC Good Food](https://www.bbcgoodfood.com/) 
