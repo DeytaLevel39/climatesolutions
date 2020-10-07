@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/</loc>
-<lastmod>2020-10-07T16:26:53-00:00</lastmod>
+<lastmod>2020-10-07T16:29:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/easy-solutions.html</loc>
-<lastmod>2020-10-07T16:26:50+01:00</lastmod>
+<lastmod>2020-10-07T16:29:13+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -138,7 +138,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/category/overview.html</loc>
-<lastmod>2020-10-07T16:26:50-00:01</lastmod>
+<lastmod>2020-10-07T16:29:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -159,14 +159,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/climate.html</loc>
-<lastmod>2020-10-07T16:26:50-00:01</lastmod>
+<lastmod>2020-10-07T16:29:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/solutions.html</loc>
-<lastmod>2020-10-07T16:26:50-00:01</lastmod>
+<lastmod>2020-10-07T16:29:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -327,7 +327,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/author/climate-solutions.html</loc>
-<lastmod>2020-10-07T16:26:50-00:01</lastmod>
+<lastmod>2020-10-07T16:29:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
