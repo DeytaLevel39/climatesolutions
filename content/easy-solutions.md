@@ -40,5 +40,5 @@ Simple solutions that anybody can do include:-
 * Make sure you close doors
 
 ## Energy 
-* Make sure you've moved to a green electricity tariff
+* Make sure you've moved to a [green electricity tariff](https://www.moneysavingexpert.com/utilities/cheap-green-energy/)
 * Buy LED bulbs when your halogen or incandescent bulbs expire
