@@ -25,9 +25,9 @@ s4IA0!"_al8O`[\!<E3P!A"3Ns4[N@!!NH-"9\f1"9\i2"U,)8$j[(C#6tbI$OI4R%h]Ke%hTBe(*",(
 endobj
 5 0 obj
 <<
-/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources <<
+/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.77f69122f4bfd6d4f5470c6a0f721eaa 4 0 R
+/FormXob.273570f6f60709f3c1ace9f8468b5960 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -37,58 +37,68 @@ endobj
 endobj
 6 0 obj
 <<
-/Outlines 8 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/Author () /CreationDate (D:20201007163925+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201007163925+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Easy Climate Solutions) /Trapped /False
+/Outlines 9 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/Count 2 /First 9 0 R /Last 9 0 R /Type /Outlines
+/Author () /CreationDate (D:20201007164426+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201007164426+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Easy Climate Solutions) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/Count -5 /Dest [ 5 0 R /Fit ] /First 10 0 R /Last 14 0 R /Parent 8 0 R /Title (Food & Drink)
+/Count 2 /First 10 0 R /Last 10 0 R /Type /Outlines
 >>
 endobj
 10 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 11 0 R /Parent 9 0 R /Title (Food & Drink)
+/Count -5 /Dest [ 5 0 R /Fit ] /First 11 0 R /Last 15 0 R /Parent 9 0 R /Title (Food & Drink)
 >>
 endobj
 11 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Transport)
+/Dest [ 5 0 R /Fit ] /Next 12 0 R /Parent 10 0 R /Title (Food & Drink)
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 13 0 R /Parent 9 0 R /Prev 11 0 R /Title (Shopping)
+/Dest [ 5 0 R /Fit ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Transport)
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Next 14 0 R /Parent 9 0 R /Prev 12 0 R /Title (Insulation & Domestic Heating)
+/Dest [ 5 0 R /Fit ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Shopping)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 5 0 R /Fit ] /Parent 9 0 R /Prev 13 0 R /Title (Energy)
+/Dest [ 5 0 R /Fit ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (Insulation & Domestic Heating)
 >>
 endobj
 15 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/Dest [ 5 0 R /Fit ] /Parent 10 0 R /Prev 14 0 R /Title (Energy)
 >>
 endobj
 16 0 obj
 <<
-/Length 7707
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+>>
+endobj
+17 0 obj
+<<
+/Length 8004
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -105,7 +115,7 @@ q
 q
 q
 467.8898 0 0 312.0788 0 9.91175 cm
-/FormXob.77f69122f4bfd6d4f5470c6a0f721eaa Do
+/FormXob.273570f6f60709f3c1ace9f8468b5960 Do
 Q
 .492188 w
 .492188 w
@@ -396,10 +406,36 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 126.9296 cm
+1 0 0 1 62.69291 117.0546 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Buy thick curtains for your windows. Close curtains as soon as sun dips \(or rises in summer\) and open them when it's sunny.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 108.7727 cm
+Q
+Q
+q
+1 0 0 1 62.69291 107.1796 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Make sure you close doors) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 107.1796 cm
+Q
+q
+1 0 0 1 62.69291 89.02268 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -410,8 +446,17 @@ Q
 q
 Q
 Q
+ 
+endstream
+endobj
+18 0 obj
+<<
+/Length 359
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 92.43493 cm
+1 0 0 1 62.69291 755.1486 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -424,23 +469,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 92.43493 cm
+1 0 0 1 62.69291 755.1486 cm
 Q
  
 endstream
 endobj
-17 0 obj
+19 0 obj
 <<
-/Nums [ 0 18 0 R ]
+/Nums [ 0 20 0 R 1 21 0 R ]
 >>
 endobj
-18 0 obj
+20 0 obj
 <<
 /S /D /St 1
 >>
 endobj
+21 0 obj
+<<
+/S /D /St 2
+>>
+endobj
 xref
-0 19
+0 22
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -448,28 +498,31 @@ xref
 0000000333 00000 n 
 0000211377 00000 n 
 0000211645 00000 n 
-0000211749 00000 n 
-0000212028 00000 n 
-0000212099 00000 n 
-0000212214 00000 n 
+0000211850 00000 n 
+0000211954 00000 n 
+0000212233 00000 n 
 0000212306 00000 n 
-0000212408 00000 n 
-0000212509 00000 n 
-0000212631 00000 n 
-0000212717 00000 n 
-0000212777 00000 n 
-0000220536 00000 n 
-0000220577 00000 n 
+0000212422 00000 n 
+0000212515 00000 n 
+0000212618 00000 n 
+0000212720 00000 n 
+0000212843 00000 n 
+0000212930 00000 n 
+0000212996 00000 n 
+0000221052 00000 n 
+0000221462 00000 n 
+0000221512 00000 n 
+0000221546 00000 n 
 trailer
 <<
 /ID 
-[<59b7375ada618432d583c41aa4cfd054><59b7375ada618432d583c41aa4cfd054>]
+[<aca2ddce84b4738981bf133e7e81d320><aca2ddce84b4738981bf133e7e81d320>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 7 0 R
-/Root 6 0 R
-/Size 19
+/Info 8 0 R
+/Root 7 0 R
+/Size 22
 >>
 startxref
-220611
+221580
 %%EOF
