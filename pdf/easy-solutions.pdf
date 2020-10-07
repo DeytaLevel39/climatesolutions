@@ -35,7 +35,7 @@ endobj
 <<
 /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.1d85bd69c9b843897aa399de917f56cf 4 0 R
+/FormXob.c11473529044d14083583a14f12b257b 4 0 R
 >>
 >> /Rotate 0 /Trans <<
 
@@ -60,7 +60,7 @@ endobj
 endobj
 9 0 obj
 <<
-/Author () /CreationDate (D:20201007162314+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201007162314+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201007162626+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201007162626+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Easy Solutions) /Trapped /False
 >>
 endobj
@@ -71,12 +71,12 @@ endobj
 endobj
 11 0 obj
 <<
-/Count -4 /Dest [ 6 0 R /Fit ] /First 12 0 R /Last 15 0 R /Parent 10 0 R /Title (Food)
+/Count -4 /Dest [ 6 0 R /Fit ] /First 12 0 R /Last 15 0 R /Parent 10 0 R /Title (Food & Drink)
 >>
 endobj
 12 0 obj
 <<
-/Dest [ 6 0 R /Fit ] /Next 13 0 R /Parent 11 0 R /Title (Food)
+/Dest [ 6 0 R /Fit ] /Next 13 0 R /Parent 11 0 R /Title (Food & Drink)
 >>
 endobj
 13 0 obj
@@ -101,7 +101,7 @@ endobj
 endobj
 17 0 obj
 <<
-/Length 3510
+/Length 3879
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -118,7 +118,7 @@ q
 q
 q
 467.8898 0 0 476.6627 0 9.91175 cm
-/FormXob.1d85bd69c9b843897aa399de917f56cf Do
+/FormXob.c11473529044d14083583a14f12b257b Do
 Q
 .492188 w
 .492188 w
@@ -134,7 +134,7 @@ q
 1 0 0 1 1 -1 cm
 q
 .605883 w
-BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Food) Tj T* ET
+BT 1 0 0 1 0 7.05387 Tm 9.694125 TL /F2 6.46275 Tf 0 0 0 rg (Food & Drink) Tj T* ET
 Q
 Q
 q
@@ -154,10 +154,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 209.9546 cm
+1 0 0 1 62.69291 200.0796 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (\177) Tj ET
+.492188 w
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (If you're going out on a trip, remember to fill an existing bottle with water or juice, rather than buying a plastic water bottle) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 191.7977 cm
+Q
+Q
+q
+1 0 0 1 62.69291 200.0796 cm
+Q
+q
+1 0 0 1 62.69291 181.9227 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -169,7 +182,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 167.5849 cm
+1 0 0 1 62.69291 157.7099 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -183,7 +196,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 157.7099 cm
+1 0 0 1 62.69291 147.8349 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -196,7 +209,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 147.8349 cm
+1 0 0 1 62.69291 137.9599 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -209,7 +222,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 137.9599 cm
+1 0 0 1 62.69291 128.0849 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -222,7 +235,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 128.0849 cm
+1 0 0 1 62.69291 118.2099 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -235,10 +248,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 128.0849 cm
+1 0 0 1 62.69291 118.2099 cm
 Q
 q
-1 0 0 1 62.69291 109.9281 cm
+1 0 0 1 62.69291 100.0531 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -250,7 +263,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 93.5903 cm
+1 0 0 1 62.69291 83.7153 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -263,7 +276,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 93.5903 cm
+1 0 0 1 62.69291 83.7153 cm
 Q
  
 endstream
@@ -413,20 +426,20 @@ xref
 0000202640 00000 n 
 0000202911 00000 n 
 0000202985 00000 n 
-0000203094 00000 n 
-0000203179 00000 n 
-0000203282 00000 n 
-0000203384 00000 n 
-0000203494 00000 n 
-0000203560 00000 n 
-0000207122 00000 n 
-0000210003 00000 n 
-0000210053 00000 n 
-0000210087 00000 n 
+0000203102 00000 n 
+0000203195 00000 n 
+0000203298 00000 n 
+0000203400 00000 n 
+0000203510 00000 n 
+0000203576 00000 n 
+0000207507 00000 n 
+0000210388 00000 n 
+0000210438 00000 n 
+0000210472 00000 n 
 trailer
 <<
 /ID 
-[<b41444f0cb0939c7e622d9b65440135a><b41444f0cb0939c7e622d9b65440135a>]
+[<0b941105b0606e338b24357fac745e64><0b941105b0606e338b24357fac745e64>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 9 0 R
@@ -434,5 +447,5 @@ trailer
 /Size 22
 >>
 startxref
-210121
+210506
 %%EOF
