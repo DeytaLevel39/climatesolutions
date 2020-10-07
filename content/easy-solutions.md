@@ -24,11 +24,11 @@ Simple solutions that anybody can do include:-
 ## Shopping
 * Reduce your use of plastic bags, which are made from oil
 * Buy second hand goods where appropriate e.g. books or get items for free at [freecycle](https://www.freecycle.org/)
-* Don't buy "fast fashion"
+* Don't buy ["fast fashion"](https://www.thegoodtrade.com/features/what-is-fast-fashion#:~:text=Good%20on%20You,seasonal%20basis%20is%20being%20challenged.)
 * Remember to consider energy efficiency when buying tvs, laptops & white goods
 
 ## Insulation & Domestic Heating
-* Add draught excluders around all ground floor doors - this is the most cost effective way to reduce heat loss
+* Add [draught excluders](https://www.toolstation.com/ironmongery/draught-excluders/c272?redirect=draught+excluder) around all ground floor doors - this is the most cost effective way to reduce heat loss
 * Add [radiator reflector foil](https://www.toolstation.com/ybs-radiator-reflector-foam/p27189) behind radiators located on external walls - most heat is lost from the rear of a radiator on an external wall. The foil will ensure that more heated air is convected up rather than conducted through the wall
 * Wear vests & jumpers in Winter - it's much better to heat you, than heat your living space.
 * Take a bath or shower - this will heat your core and keep you warm for a couple of hours after you've come out
@@ -40,3 +40,4 @@ Simple solutions that anybody can do include:-
 
 ## Energy 
 * Make sure you've moved to a green electricity tariff
+* Buy LED bulbs when your halogen or incandescent bulbs expire
