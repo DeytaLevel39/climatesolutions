@@ -25,7 +25,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('UK Committee for Climate Change','https://www.theccc.org.uk/'),('UK Climate Assembly','https://www.climateassembly.uk/'),('UK Department of Energy & Climate Change','https://www.gov.uk/government/organisations/department-of-energy-climate-change'))
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/ClimateSoluti10'),('Linkedin','https://www.linkedin.com/company/uk-climate-solutions'))
+SOCIAL = (('Twitter', 'https://twitter.com/ClimateSolnsUK'),('Linkedin','https://www.linkedin.com/company/uk-climate-solutions'))
 
 DEFAULT_PAGINATION = False
 
