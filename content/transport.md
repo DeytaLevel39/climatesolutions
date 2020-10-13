@@ -44,6 +44,10 @@ Electric Vehicles work well for cars, vans and buses and potentially heavy goods
 [EVCompare.io](https://evcompare.io/) is a good international comparison website (priced in dollars) that provides a Top Trumps style comparison of the electric vehicles out there. The Tesla Model S is typically still considered to be the top end EV 
 whilst the Nissan Leaf is typically considered the most practical replacement for a petrol/diesel
 
+For the UK specific market, What Car, provide a nice review of available models in the accompanying video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z7OH0VVFjAo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Industry solutions
 1. Focus on replacing Cobalt as a stablising agent within the batteries. [Tesla is leading the way on this](https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/)
 2. Work with other automakers on standardising chargers
