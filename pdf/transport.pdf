@@ -34,7 +34,7 @@ endobj
 <<
 /Annots [ 5 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.c498b117bc68e2de4284c3f824eaeccb 4 0 R
+/FormXob.518ae2335ab7a9385808b35cddb2e792 4 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -61,14 +61,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/)
->> /Border [ 0 0 0 ] /Rect [ 230.0182 176.769 302.9669 184.644 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 230.0182 161.644 302.9669 169.519 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /Annots [ 8 0 R 9 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.732fe809eb2d6a84d45e7dd6db1b5a4f 7 0 R
+/FormXob.a6088f85122d16f6c67e427288928079 7 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -93,7 +93,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Author () /CreationDate (D:20201013195905+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201013195905+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20201013200408+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201013200408+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Transport) /Trapped /False
 >>
 endobj
@@ -167,7 +167,7 @@ q
 q
 q
 467.8898 0 0 316.8004 0 2.03675 cm
-/FormXob.c498b117bc68e2de4284c3f824eaeccb Do
+/FormXob.518ae2335ab7a9385808b35cddb2e792 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 317.0629 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -222,7 +222,7 @@ endstream
 endobj
 25 0 obj
 <<
-/Length 8473
+/Length 8354
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -233,7 +233,7 @@ q
 q
 q
 467.8898 0 0 337.0071 0 2.03675 cm
-/FormXob.732fe809eb2d6a84d45e7dd6db1b5a4f Do
+/FormXob.a6088f85122d16f6c67e427288928079 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 337.2696 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -446,7 +446,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 187.8648 cm
+1 0 0 1 62.69291 188.9148 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (For the UK specific market, What Car, provide a nice review of available models in the accompanying video) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 172.7398 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -458,7 +470,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 172.3198 cm
+1 0 0 1 62.69291 157.1948 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -473,7 +485,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 162.4448 cm
+1 0 0 1 62.69291 147.3198 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -486,7 +498,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 152.5698 cm
+1 0 0 1 62.69291 137.4448 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -499,7 +511,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 142.6948 cm
+1 0 0 1 62.69291 127.5698 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -512,10 +524,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 142.6948 cm
+1 0 0 1 62.69291 127.5698 cm
 Q
 q
-1 0 0 1 62.69291 126.5198 cm
+1 0 0 1 62.69291 111.3948 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -527,7 +539,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 110.9748 cm
+1 0 0 1 62.69291 95.84979 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -540,7 +552,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 101.0998 cm
+1 0 0 1 62.69291 85.97479 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -552,8 +564,17 @@ Q
 q
 Q
 Q
+ 
+endstream
+endobj
+26 0 obj
+<<
+/Length 2417
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 91.22479 cm
+1 0 0 1 62.69291 755.1486 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -566,19 +587,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 91.22479 cm
+1 0 0 1 62.69291 755.1486 cm
 Q
- 
-endstream
-endobj
-26 0 obj
-<<
-/Length 2062
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 753.3295 cm
+1 0 0 1 62.69291 736.9917 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -590,7 +602,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 736.9917 cm
+1 0 0 1 62.69291 720.654 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -602,7 +614,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 721.8667 cm
+1 0 0 1 62.69291 705.529 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -614,7 +626,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 706.7417 cm
+1 0 0 1 62.69291 690.404 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -626,7 +638,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 691.6167 cm
+1 0 0 1 62.69291 675.279 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -638,10 +650,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 686.3667 cm
+1 0 0 1 62.69291 670.029 cm
 Q
 q
-1 0 0 1 62.69291 668.2099 cm
+1 0 0 1 62.69291 651.8721 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -653,7 +665,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 643.9971 cm
+1 0 0 1 62.69291 627.6594 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -718,15 +730,15 @@ xref
 0000148232 00000 n 
 0000148306 00000 n 
 0000150234 00000 n 
-0000158759 00000 n 
-0000160873 00000 n 
-0000160932 00000 n 
-0000160966 00000 n 
-0000161000 00000 n 
+0000158640 00000 n 
+0000161109 00000 n 
+0000161168 00000 n 
+0000161202 00000 n 
+0000161236 00000 n 
 trailer
 <<
 /ID 
-[<b5f41ff6ea2dcd3102c21f5c7815488c><b5f41ff6ea2dcd3102c21f5c7815488c>]
+[<95a4de8783dac6ff8cbe1d3efa0fa6db><95a4de8783dac6ff8cbe1d3efa0fa6db>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 13 0 R
@@ -734,5 +746,5 @@ trailer
 /Size 31
 >>
 startxref
-161034
+161270
 %%EOF
