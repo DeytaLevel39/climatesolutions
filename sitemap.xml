@@ -5,8 +5,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/</loc>
-<lastmod>2020-10-12T15:04:33-00:00</lastmod>
+<lastmod>2020-10-13T19:45:02-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/transport.html</loc>
+<lastmod>2020-10-13T19:43:45+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -48,13 +55,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.climatesolutions.org.uk/government-initiatives.html</loc>
 <lastmod>2020-10-01T19:31:23+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.climatesolutions.org.uk/transport.html</loc>
-<lastmod>2020-10-01T19:11:07+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -152,21 +152,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/category/transport.html</loc>
-<lastmod>2020-10-01T19:11:07-00:01</lastmod>
+<lastmod>2020-10-13T19:43:45-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/climate.html</loc>
-<lastmod>2020-10-07T17:17:55-00:01</lastmod>
+<lastmod>2020-10-13T19:43:45-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/solutions.html</loc>
-<lastmod>2020-10-07T17:17:55-00:01</lastmod>
+<lastmod>2020-10-13T19:43:45-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.climatesolutions.org.uk/tag/transport.html</loc>
+<lastmod>2020-10-13T19:43:45-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -180,13 +187,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/tag/drink.html</loc>
-<lastmod>2020-10-07T17:17:55-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.climatesolutions.org.uk/tag/transport.html</loc>
 <lastmod>2020-10-07T17:17:55-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -355,7 +355,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.climatesolutions.org.uk/author/climate-solutions.html</loc>
-<lastmod>2020-10-07T17:17:55-00:01</lastmod>
+<lastmod>2020-10-13T19:43:45-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

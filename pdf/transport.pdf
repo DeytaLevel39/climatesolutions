@@ -32,9 +32,9 @@ endobj
 endobj
 6 0 obj
 <<
-/Annots [ 5 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Annots [ 5 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.34b88f9baafaebef287da3c3d56c7119 4 0 R
+/FormXob.7c8fbc1156f7a6abec75d451219eb33d 4 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -53,15 +53,22 @@ endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/)
->> /Border [ 0 0 0 ] /Rect [ 230.0182 266.989 302.9669 274.864 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://evcompare.io/)
+>> /Border [ 0 0 0 ] /Rect [ 63.69291 226.239 97.82841 234.114 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 8 0 R ] /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.cnet.com/roadshow/news/tesla-cobalt-free-batteries-china/)
+>> /Border [ 0 0 0 ] /Rect [ 230.0182 186.644 302.9669 194.519 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 8 0 R 9 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.6614e80b635192ffc04456c905ea0320 7 0 R
+/FormXob.13ccc9014d32452f6f9afe6b2404d7f0 7 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -69,9 +76,9 @@ endobj
 >> /Type /Page
 >>
 endobj
-10 0 obj
+11 0 obj
 <<
-/Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 21 0 R /Resources <<
+/Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -79,66 +86,71 @@ endobj
   /Type /Page
 >>
 endobj
-11 0 obj
-<<
-/Outlines 13 0 R /PageLabels 25 0 R /PageMode /UseNone /Pages 21 0 R /Type /Catalog
->>
-endobj
 12 0 obj
 <<
-/Author () /CreationDate (D:20201012150439+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201012150439+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Transport) /Trapped /False
+/Outlines 14 0 R /PageLabels 27 0 R /PageMode /UseNone /Pages 23 0 R /Type /Catalog
 >>
 endobj
 13 0 obj
 <<
-/Count 3 /First 14 0 R /Last 14 0 R /Type /Outlines
+/Author () /CreationDate (D:20201013194502+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20201013194502+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Transport) /Trapped /False
 >>
 endobj
 14 0 obj
 <<
-/Count -3 /Dest [ 6 0 R /Fit ] /First 15 0 R /Last 20 0 R /Parent 13 0 R /Title (Transport)
+/Count 3 /First 15 0 R /Last 15 0 R /Type /Outlines
 >>
 endobj
 15 0 obj
 <<
-/Count -3 /Dest [ 6 0 R /Fit ] /First 16 0 R /Last 18 0 R /Next 19 0 R /Parent 14 0 R 
-  /Title (Cars, Vans, Buses & Heavy Goods Vehicles)
+/Count -3 /Dest [ 6 0 R /Fit ] /First 16 0 R /Last 22 0 R /Parent 14 0 R /Title (Transport)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 9 0 R /Fit ] /Next 17 0 R /Parent 15 0 R /Title (Remaining challenges)
+/Count -4 /Dest [ 6 0 R /Fit ] /First 17 0 R /Last 20 0 R /Next 21 0 R /Parent 15 0 R 
+  /Title (Cars, Vans, Buses & Heavy Goods Vehicles)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 9 0 R /Fit ] /Next 18 0 R /Parent 15 0 R /Prev 16 0 R /Title (Industry solutions)
+/Dest [ 10 0 R /Fit ] /Next 18 0 R /Parent 16 0 R /Title (Remaining challenges)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 9 0 R /Fit ] /Parent 15 0 R /Prev 17 0 R /Title (Government solutions)
+/Dest [ 10 0 R /Fit ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (What Electric vehicles are there out there?)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 9 0 R /Fit ] /Next 20 0 R /Parent 14 0 R /Prev 15 0 R /Title (eBikes, eScooters & Car Sharing)
+/Dest [ 10 0 R /Fit ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (Industry solutions)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 9 0 R /Fit ] /Parent 14 0 R /Prev 19 0 R /Title (Ships, Aeroplanes & Trains)
+/Dest [ 10 0 R /Fit ] /Parent 16 0 R /Prev 19 0 R /Title (Government solutions)
 >>
 endobj
 21 0 obj
 <<
-/Count 3 /Kids [ 6 0 R 9 0 R 10 0 R ] /Type /Pages
+/Dest [ 10 0 R /Fit ] /Next 22 0 R /Parent 15 0 R /Prev 16 0 R /Title (eBikes, eScooters & Car Sharing)
 >>
 endobj
 22 0 obj
 <<
-/Length 2028
+/Dest [ 11 0 R /Fit ] /Parent 15 0 R /Prev 21 0 R /Title (Ships, Aeroplanes & Trains)
+>>
+endobj
+23 0 obj
+<<
+/Count 3 /Kids [ 6 0 R 10 0 R 11 0 R ] /Type /Pages
+>>
+endobj
+24 0 obj
+<<
+/Length 2027
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -155,7 +167,7 @@ q
 q
 q
 467.8898 0 0 316.8004 0 2.03675 cm
-/FormXob.34b88f9baafaebef287da3c3d56c7119 Do
+/FormXob.7c8fbc1156f7a6abec75d451219eb33d Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 317.0629 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -199,7 +211,7 @@ q
 n 112.3448 20.87112 m 215.9273 20.87112 l S
 .492188 w
 .492188 w
-BT 1 0 0 1 0 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Transport is currently the sector that is responsible for the most CO2 emissions, but is showing great promise in combatting this issue as electric vans & cars \(EVs\) aim to displace petrol & diesel. The) Tj T* (most expensive item in an EV is the battery and ) Tj 0 0 1 rg (battery prices are coming down year on year) Tj 0 0 0 rg (. It's expected that in 2022, EVs will be an equivalent price to petrol/diesel vehicles. At that point, sales) Tj T* (should go from less than 1% of total global car sales up to 35% by 2040. The total cost of ownership \(TCO\) of EVs is already below that of petrol/diesel equivalents due to maintenance costs being) Tj T* (much lower due to less moving parts and the cost of charging EVs especially from home is substantially cheaper than fuel.) Tj T* ET
+BT 1 0 0 1 0 29.7305 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Transport is currently the sector that is responsible for the most CO2 emissions, but is showing great promise in combating this issue as electric vans & cars \(EVs\) aim to displace petrol & diesel. The) Tj T* (most expensive item in an EV is the battery and ) Tj 0 0 1 rg (battery prices are coming down year on year) Tj 0 0 0 rg (. It's expected that in 2022, EVs will be an equivalent price to petrol/diesel vehicles. At that point, sales) Tj T* (should go from less than 1% of total global car sales up to 35% by 2040. The total cost of ownership \(TCO\) of EVs is already below that of petrol/diesel equivalents due to maintenance costs being) Tj T* (much lower due to less moving parts and the cost of charging EVs especially from home is substantially cheaper than fuel.) Tj T* ET
 Q
 Q
 q
@@ -220,9 +232,9 @@ Q
  
 endstream
 endobj
-23 0 obj
+25 0 obj
 <<
-/Length 7619
+/Length 8183
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -233,7 +245,7 @@ q
 q
 q
 467.8898 0 0 337.0071 0 2.03675 cm
-/FormXob.6614e80b635192ffc04456c905ea0320 Do
+/FormXob.13ccc9014d32452f6f9afe6b2404d7f0 Do
 Q
 .492188 w
 BT 1 0 0 1 0 3.08675 Tm 337.2696 TL 467.8898 0 Td /F1 5.25 Tf 6.3 TL  T* -467.8898 0 Td ET
@@ -261,7 +273,7 @@ q
 q
 BT 1 0 0 1 0 6.1055 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (1.) Tj ET
 .492188 w
-BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Range between re-fueling. Some of the higher end models can now reasonably achieve 250 miles but the cheaper models have much lower ranges) Tj T* ET
+BT 1 0 0 1 7.875 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (Range between re-fueling. Some of the higher end models can now reasonably achieve 250 miles but the cheaper models have much lower ranges.) Tj T* ET
 Q
 Q
 q
@@ -364,10 +376,37 @@ q
 1 0 0 1 62.69291 309.3848 cm
 Q
 q
-1 0 0 1 62.69291 309.3848 cm
+1 0 0 1 62.69291 291.6348 cm
+q
+1 0 0 1 1 -1 cm
+q
+BT 1 0 0 1 0 13.9805 Tm /F1 5.25 Tf 6.3 TL 0 0 0 rg /F1 5.25 Tf 6.3 TL 0 0 0 rg (7.) Tj ET
+.492188 w
+.492188 w
+BT 1 0 0 1 7.875 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (It could be viewed as a pro or a con, but EV technology is moving so fast that similar to other electronic goods such as a TV, laptop or mobile phone, there's a challenge in that the latest specs are) Tj T* (much better than specs of a few years ago making the used EV market less attractive.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 294.2598 cm
+Q
+Q
+q
+1 0 0 1 62.69291 291.6348 cm
+Q
+q
+1 0 0 1 62.69291 268.6348 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (With points 1 to 3, what should be borne in mind is the extent to which you use a car. For many city dwellers, a range of 300 miles between charges might be the equivalent of a couple of months driving) Tj T* (time, so a charging time of half an hour is not a big deal. If you live in the countryside and can charge overnight from home, those factors and point 4 are also not a big deal.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 253.5098 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -379,7 +418,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 278.0848 cm
+1 0 0 1 62.69291 237.3348 cm
+q
+1 0 0 1 1 -1 cm
+q
+.531562 w
+BT 1 0 0 1 0 6.43394 Tm 8.505 TL /F2 5.67 Tf 0 0 0 rg (What Electric vehicles are there out there?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 213.9148 cm
+q
+1 0 0 1 1 -1 cm
+q
+.492188 w
+0 0 1 RG
+n 0 12.99612 m 34.1355 12.99612 l S
+.492188 w
+BT 1 0 0 1 0 13.9805 Tm 7.875 TL /F1 5.25 Tf 0 0 1 rg (EVCompare.io) Tj 0 0 0 rg ( is a good international comparison website \(priced in dollars\) that provides a Top Trumps style comparison of the electric vehicles out there. The Tesla Model S is typically still considered) Tj T* (to be the top end EV whilst the Nissan Leaf is typically considered the most practical replacement for a petrol/diesel) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 197.7398 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -391,7 +457,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 262.5398 cm
+1 0 0 1 62.69291 182.1948 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -406,7 +472,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 252.6648 cm
+1 0 0 1 62.69291 172.3198 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -419,7 +485,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 242.7898 cm
+1 0 0 1 62.69291 162.4448 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -432,7 +498,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 232.9148 cm
+1 0 0 1 62.69291 152.5698 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -445,10 +511,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 232.9148 cm
+1 0 0 1 62.69291 152.5698 cm
 Q
 q
-1 0 0 1 62.69291 216.7398 cm
+1 0 0 1 62.69291 136.3948 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -460,7 +526,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 201.1948 cm
+1 0 0 1 62.69291 120.8498 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -473,7 +539,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 191.3198 cm
+1 0 0 1 62.69291 110.9748 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -486,7 +552,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 181.4448 cm
+1 0 0 1 62.69291 101.0998 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -499,10 +565,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 181.4448 cm
+1 0 0 1 62.69291 101.0998 cm
 Q
 q
-1 0 0 1 62.69291 163.2879 cm
+1 0 0 1 62.69291 82.94291 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -513,20 +579,29 @@ Q
 q
 Q
 Q
+ 
+endstream
+endobj
+26 0 obj
+<<
+/Length 1887
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 146.9502 cm
+1 0 0 1 62.69291 755.1486 cm
 q
 1 0 0 1 1 -1 cm
 q
 .492188 w
-BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (These proposals as an addiitonal method to replace some car journeys are dicussed in this video from the University of Leeds Climate Solutions department) Tj T* ET
+BT 1 0 0 1 0 6.1055 Tm 7.875 TL /F1 5.25 Tf 0 0 0 rg (These proposals as an addiitional method to replace some car journeys are discussed in this video from the University of Leeds Climate Solutions department) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 131.8252 cm
+1 0 0 1 62.69291 740.0236 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -538,7 +613,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 116.7002 cm
+1 0 0 1 62.69291 724.8986 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -550,7 +625,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 101.5752 cm
+1 0 0 1 62.69291 709.7736 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -562,10 +637,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 96.32516 cm
+1 0 0 1 62.69291 704.5236 cm
 Q
 q
-1 0 0 1 62.69291 78.16829 cm
+1 0 0 1 62.69291 686.3667 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -576,17 +651,8 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-24 0 obj
-<<
-/Length 662
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.2736 cm
+1 0 0 1 62.69291 662.154 cm
 q
 1 0 0 1 1 -1 cm
 q
@@ -603,28 +669,28 @@ Q
  
 endstream
 endobj
-25 0 obj
+27 0 obj
 <<
-/Nums [ 0 26 0 R 1 27 0 R 2 28 0 R ]
+/Nums [ 0 28 0 R 1 29 0 R 2 30 0 R ]
 >>
 endobj
-26 0 obj
+28 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-27 0 obj
+29 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-28 0 obj
+30 0 obj
 <<
 /S /D /St 3
 >>
 endobj
 xref
-0 29
+0 31
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -634,36 +700,38 @@ xref
 0000031349 00000 n 
 0000031635 00000 n 
 0000145901 00000 n 
-0000146120 00000 n 
-0000146406 00000 n 
-0000146612 00000 n 
-0000146718 00000 n 
-0000146985 00000 n 
-0000147059 00000 n 
-0000147173 00000 n 
-0000147334 00000 n 
-0000147435 00000 n 
-0000147547 00000 n 
-0000147648 00000 n 
-0000147773 00000 n 
-0000147880 00000 n 
-0000147953 00000 n 
-0000150033 00000 n 
-0000157704 00000 n 
-0000158417 00000 n 
-0000158476 00000 n 
-0000158510 00000 n 
-0000158544 00000 n 
+0000146072 00000 n 
+0000146291 00000 n 
+0000146584 00000 n 
+0000146790 00000 n 
+0000146896 00000 n 
+0000147163 00000 n 
+0000147237 00000 n 
+0000147351 00000 n 
+0000147512 00000 n 
+0000147614 00000 n 
+0000147752 00000 n 
+0000147865 00000 n 
+0000147967 00000 n 
+0000148093 00000 n 
+0000148201 00000 n 
+0000148275 00000 n 
+0000150354 00000 n 
+0000158589 00000 n 
+0000160528 00000 n 
+0000160587 00000 n 
+0000160621 00000 n 
+0000160655 00000 n 
 trailer
 <<
 /ID 
-[<89abbe9191b628bbab08dcdce6a889e1><89abbe9191b628bbab08dcdce6a889e1>]
+[<91b2cac44ada5010f70d68e065dfc58e><91b2cac44ada5010f70d68e065dfc58e>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 12 0 R
-/Root 11 0 R
-/Size 29
+/Info 13 0 R
+/Root 12 0 R
+/Size 31
 >>
 startxref
-158578
+160689
 %%EOF
