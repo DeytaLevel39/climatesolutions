@@ -51,7 +51,7 @@ For the UK specific market, What Car, provide a nice review of available models 
 ### Total Cost of Ownership
 Currently, electric vehicles list prices are about 18% more expensive than their petrol/diesel equivalents, so why should you buy an EV today?
 
-1. Government grant of up to £3500 (plus £500 to add a home charger if you need one)
+1. [Government grant of up to £3000](https://www.gov.uk/plug-in-car-van-grants) (plus [£350 to add a home charger](https://www.gov.uk/government/collections/government-grants-for-low-emission-vehicles#electric-vehicle-homecharge-scheme) if you need one)
 2. Cost per mile. Here EV's really come in to their own. The CPM for a Nissan Leaf 40kwh model is about 2.4p, whereas for a Ford Fiesta 1.0L it's 14.4p (based on fuel price of £1.27 per litre)
 3. Lower road tax - for EVs like the Nissan Leaf which are under £40,000, there's no vehicle excise duty to pay each year currently
 4. Lower cost of maintenance - With less moving parts, EVs don't have the high costs of engine & exhaust system maintenance, their equivalent ICEs do. 
